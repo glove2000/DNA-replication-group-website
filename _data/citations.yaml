@@ -1,82 +1,837 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.cell.2023.10.015
+  title: Design, construction, and functional characterization of a tRNA neochromosome
+    in yeast
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Daniel Schindler
+  - Roy S.K. Walker
+  - Shuangying Jiang
+  - Aaron N. Brooks
+  - Yun Wang
+  - "Carolin A. M\xFCller"
+  - Charlotte Cockram
+  - Yisha Luo
+  - "Alicia Garc\xEDa"
+  - Daniel Schraivogel
+  - Julien Mozziconacci
+  - Noah Pena
+  - Mahdi Assari
+  - "Mar\xEDa del Carmen S\xE1nchez Olmos"
+  - Yu Zhao
+  - Alba Ballerini
+  - Benjamin A. Blount
+  - Jitong Cai
+  - Lois Ogunlana
+  - Wei Liu
+  - "Katarina J\xF6nsson"
+  - Dariusz Abramczyk
+  - Eva Garcia-Ruiz
+  - Tomasz W. Turowski
+  - Reem Swidah
+  - Tom Ellis
+  - Tao Pan
+  - Francisco Antequera
+  - Yue Shen
+  - Conrad A. Nieduszynski
+  - Romain Koszul
+  - Junbiao Dai
+  - Lars M. Steinmetz
+  - Jef D. Boeke
+  - Yizhi Cai
+  publisher: Cell
+  date: '2023-11-01'
+  link: https://doi.org/gs6s44
+  orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1128/mbio.01777-22
+  title: "Systematic Analysis of Copy Number Variations in the Pathogenic Yeast Candida\
+    \ parapsilosis Identifies a Gene Amplification in\n            <i>RTA3</i>\n \
+    \           That is Associated with Drug Resistance"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Sean A. Bergin
+  - Fang Zhao
+  - Adam P. Ryan
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  - Bing Zhai
+  - Thierry Rolling
+  - Tobias M. Hohl
+  - Florent Morio
+  - Jillian Scully
+  - Kenneth H. Wolfe
+  - Geraldine Butler
+  publisher: mBio
+  date: '2022-10-26'
+  link: https://doi.org/gs6s45
+  orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1103/PhysRevE.103.052410
+  title: Effectiveness of glass beads for plating cell cultures
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Alisa Prusokiene
+  - Michelle Hawkins
+  - Conrad A. Nieduszynski
+  - Renata Retkute
+  publisher: Physical Review E
+  date: '2021-05-17'
+  link: https://doi.org/gj3ng5
+  orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.jbc.2021.100533
+  title: Tos4 mediates gene expression homeostasis through interaction with HDAC complexes
+    independently of H3K56 acetylation
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Sophie L. Cooke
+  - Barbara L. Soares
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  - Francisco M. Bastos de Oliveira
+  - Robertus A.M. de Bruin
+  publisher: Journal of Biological Chemistry
+  date: '2021-01-01'
+  link: https://doi.org/gqsr96
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2004664117
+  title: Sir2 mitigates an intrinsic imbalance in origin licensing efficiency between
+    early- and late-replicating euchromatin
+  authors:
+  - Timothy Hoggard
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  - Michael Weinreich
+  - Catherine A. Fox
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2020-06-08'
+  link: https://doi.org/gs6s46
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41596-019-0287-7
+  title: 'DNA copy-number measurement of genome replication dynamics by high-throughput
+    sequencing: the sort-seq, sync-seq and MFA-seq family'
+  authors:
+  - Dzmitry G. Batrakou
+  - "Carolin A. M\xFCller"
+  - Rosemary H. C. Wilson
+  - Conrad A. Nieduszynski
+  publisher: Nature Protocols
+  date: '2020-02-12'
+  link: https://doi.org/gs6s47
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007651
+  title: 'The Beacon Calculus: A formal method for the flexible and concise modelling
+    of biological systems'
+  authors:
+  - Michael A. Boemo
+  - Luca Cardelli
+  - Conrad A. Nieduszynski
+  publisher: PLOS Computational Biology
+  date: '2020-03-09'
+  link: https://doi.org/ggpcxz
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-019-1719-y
+  title: "Genome-wide analysis of DNA replication timing in single cells: Yes! We\u2019\
+    re all individuals"
+  authors:
+  - Anne D. Donaldson
+  - Conrad A. Nieduszynski
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2019-05-30'
+  link: https://doi.org/gs6s48
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-019-09824-4
+  title: Interspecies conservation of organisation and function between nonhomologous
+    regional centromeres
+  authors:
+  - Pin Tong
+  - Alison L. Pidoux
+  - Nicholas R. T. Toda
+  - Ryan Ard
+  - Harald Berger
+  - Manu Shukla
+  - Jesus Torres-Garcia
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  - Robin C. Allshire
+  publisher: Nature Communications
+  date: '2019-05-28'
+  link: https://doi.org/gs6s49
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/442814
+  title: Capturing the dynamics of genome replication on individual ultra-long nanopore
+    sequence reads
+  authors:
+  - "Carolin A M\xFCller"
+  - Michael A Boemo
+  - Paolo Spingardi
+  - Benedikt M Kessler
+  - Skirmantas Kriaucionis
+  - Jared T Simpson
+  - Conrad A Nieduszynski
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-10-16'
+  link: https://doi.org/ggrsdc
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/542902
+  title: Cohesin-mediated genome architecture does not define DNA replication timing
+    domains
+  authors:
+  - Phoebe Oldach
+  - Conrad A Nieduszynski
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-06'
+  link: https://doi.org/gkvfbw
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gky590
+  title: Rapid high-resolution measurement of DNA replication timing by droplet digital
+    PCR
+  authors:
+  - Dzmitry G Batrakou
+  - Emma D Heron
+  - Conrad A Nieduszynski
+  publisher: Nucleic Acids Research
+  date: '2018-07-09'
+  link: https://doi.org/gsxcqc
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gky132
+  title: Rif1 acts through Protein Phosphatase 1 but independent of replication timing
+    to suppress telomere extension in budding yeast
+  authors:
+  - Sylwia Kedziora
+  - Vamsi K Gali
+  - Rosemary HC Wilson
+  - Kate RM Clark
+  - Conrad A Nieduszynski
+  - Shin-ichiro Hiraga
+  - Anne D Donaldson
+  publisher: Nucleic Acids Research
+  date: '2018-02-26'
+  link: https://doi.org/gdk5xg
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/wellcomeopenres.13884.1
+  title: Investigating the role of Rts1 in DNA replication initiation
+  authors:
+  - Ana B.A. Wallis
+  - Conrad A. Nieduszynski
+  publisher: Wellcome Open Research
+  date: '2018-03-06'
+  link: https://doi.org/gdhd9m
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1083/jcb.201701061
+  title: DNA replication timing influences gene expression level
+  authors:
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  publisher: Journal of Cell Biology
+  date: '2017-05-24'
+  link: https://doi.org/gbmkbc
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aaf4791
+  title: Deep functional analysis of synII, a 770-kilobase synthetic yeast chromosome
+  authors:
+  - Yue Shen
+  - Yun Wang
+  - Tai Chen
+  - Feng Gao
+  - Jianhui Gong
+  - Dariusz Abramczyk
+  - Roy Walker
+  - Hongcui Zhao
+  - Shihong Chen
+  - Wei Liu
+  - Yisha Luo
+  - "Carolin A. M\xFCller"
+  - Adrien Paul-Dubois-Taine
+  - Bonnie Alver
+  - Giovanni Stracquadanio
+  - Leslie A. Mitchell
+  - Zhouqing Luo
+  - Yanqun Fan
+  - Baojin Zhou
+  - Bo Wen
+  - Fengji Tan
+  - Yujia Wang
+  - Jin Zi
+  - Zexiong Xie
+  - Bingzhi Li
+  - Kun Yang
+  - Sarah M. Richardson
+  - Hui Jiang
+  - Christopher E. French
+  - Conrad A. Nieduszynski
+  - Romain Koszul
+  - Adele L. Marston
+  - Yingjin Yuan
+  - Jian Wang
+  - Joel S. Bader
+  - Junbiao Dai
+  - Jef D. Boeke
+  - Xun Xu
+  - Yizhi Cai
+  - Huanming Yang
+  publisher: Science
+  date: '2017-03-10'
+  link: https://doi.org/gbgf5j
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nsmb.2962
+  title: A global profile of replicative polymerase usage
+  authors:
+  - Yasukazu Daigaku
+  - Andrea Keszthelyi
+  - "Carolin A M\xFCller"
+  - Izumi Miyabe
+  - Tony Brooks
+  - Renata Retkute
+  - Mike Hubank
+  - Conrad A Nieduszynski
+  - Antony M Carr
+  publisher: Nature Structural &amp; Molecular Biology
+  date: '2015-02-09'
+  link: https://doi.org/f64pz6
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2015.06.023
+  title: Discovery of an Unconventional Centromere in Budding Yeast Redefines Evolution
+    of Point Centromeres
+  authors:
+  - Norihiko Kobayashi
+  - Yutaka Suzuki
+  - "Lori\_W. Schoenfeld"
+  - "Carolin\_A. M\xFCller"
+  - Conrad Nieduszynski
+  - "Kenneth\_H. Wolfe"
+  - "Tomoyuki\_U. Tanaka"
+  publisher: Current Biology
+  date: '2015-08-01'
+  link: https://doi.org/f7mk2f
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkt878
+  title: The dynamics of genome replication using deep sequencing
+  authors:
+  - "Carolin A. M\xFCller"
+  - Michelle Hawkins
+  - Renata Retkute
+  - Sunir Malla
+  - Ray Wilson
+  - Martin J. Blythe
+  - Ryuichiro Nakato
+  - Makiko Komata
+  - Katsuhiko Shirahige
+  - Alessandro P.S. de Moura
+  - Conrad A. Nieduszynski
+  publisher: Nucleic Acids Research
+  date: '2013-10-01'
+  link: https://doi.org/f952qb
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1003798
+  title: A Link between ORC-Origin Binding Mechanisms and Origin Activation Time Revealed
+    in Budding Yeast
+  authors:
+  - Timothy Hoggard
+  - Erika Shor
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  - Catherine A. Fox
+  publisher: PLoS Genetics
+  date: '2013-09-12'
+  link: https://doi.org/gbdt72
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature12650
+  title: Accelerated growth in the absence of DNA replication origins
+  authors:
+  - Michelle Hawkins
+  - Sunir Malla
+  - Martin J. Blythe
+  - Conrad A. Nieduszynski
+  - Thorsten Allers
+  publisher: Nature
+  date: '2013-11-01'
+  link: https://doi.org/f5hv8z
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature12312
+  title: Avoiding chromosome pathology when replication forks collide
+  authors:
+  - Christian J. Rudolph
+  - Amy L. Upton
+  - Anna Stockum
+  - Conrad A. Nieduszynski
+  - Robert G. Lloyd
+  publisher: Nature
+  date: '2013-07-28'
+  link: https://doi.org/f49wkg
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2164-14-69
+  title: High quality de novo sequencing and assembly of the Saccharomyces arboricolus
+    genome
+  authors:
+  - Gianni Liti
+  - Alex N Nguyen Ba
+  - Martin Blythe
+  - "Carolin A M\xFCller"
+  - "Anders Bergstr\xF6m"
+  - Francisco A Cubillos
+  - Felix Dafhnis-Calas
+  - Shima Khoshraftar
+  - Sunir Malla
+  - Neel Mehta
+  - Cheuk C Siow
+  - Jonas Warringer
+  - Alan M Moses
+  - Edward J Louis
+  - Conrad A Nieduszynski
+  publisher: BMC Genomics
+  date: '2013-01-01'
+  link: https://doi.org/vgv
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2013.10.014
+  title: High-Resolution Replication Profiles Define the Stochastic Nature of Genome
+    Replication Initiation and Termination
+  authors:
+  - Michelle Hawkins
+  - Renata Retkute
+  - "Carolin\_A. M\xFCller"
+  - Nazan Saner
+  - "Tomoyuki\_U. Tanaka"
+  - "Alessandro\_P.S. de\_Moura"
+  - "Conrad\_A. Nieduszynski"
+  publisher: Cell Reports
+  date: '2013-11-01'
+  link: https://doi.org/gs6s5b
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2013.05.011
+  title: Kinetochores Coordinate Pericentromeric Cohesion and Early DNA Replication
+    by Cdc7-Dbf4 Kinase Recruitment
+  authors:
+  - Toyoaki Natsume
+  - "Carolin\_A. M\xFCller"
+  - Yuki Katou
+  - Renata Retkute
+  - "Marek Gierli\u0144ski"
+  - Hiroyuki Araki
+  - "J.\_Julian Blow"
+  - Katsuhiko Shirahige
+  - "Conrad\_A. Nieduszynski"
+  - "Tomoyuki\_U. Tanaka"
+  publisher: Molecular Cell
+  date: '2013-06-01'
+  link: https://doi.org/f43jkq
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkt728
+  title: Replisome stall events have shaped the distribution of replication origins
+    in the genomes of yeasts
+  authors:
+  - Timothy J. Newman
+  - Mohammed A. Mamun
+  - Conrad A. Nieduszynski
+  - J. Julian Blow
+  publisher: Nucleic Acids Research
+  date: '2013-08-19'
+  link: https://doi.org/f5hv8s
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1083/jcb.201306143
+  title: Stochastic association of neighboring replicons creates replication factories
+    in budding yeast
+  authors:
+  - Nazan Saner
+  - Jens Karschau
+  - Toyoaki Natsume
+  - "Marek Gierli\u0144ski"
+  - Renata Retkute
+  - Michelle Hawkins
+  - Conrad A. Nieduszynski
+  - J. Julian Blow
+  - Alessandro P.S. de Moura
+  - Tomoyuki U. Tanaka
+  publisher: Journal of Cell Biology
+  date: '2013-09-23'
+  link: https://doi.org/f5bx99
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1002554
+  title: A Putative Homologue of CDC20/CDH1 in the Malaria Parasite Is Essential for
+    Male Gamete Development
+  authors:
+  - David S. Guttery
+  - David J. P. Ferguson
+  - Benoit Poulin
+  - Zhengyao Xu
+  - Ursula Straschil
+  - Onny Klop
+  - Lev Solyakov
+  - Sara M. Sandrini
+  - Declan Brady
+  - Conrad A. Nieduszynski
+  - Chris J. Janse
+  - Anthony A. Holder
+  - Andrew B. Tobin
+  - Rita Tewari
+  publisher: PLoS Pathogens
+  date: '2012-02-23'
+  link: https://doi.org/gs6s5c
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.139477.112
+  title: Conservation of replication timing reveals global and local regulation of
+    replication origin activity
+  authors:
+  - "Carolin A. M\xFCller"
+  - Conrad A. Nieduszynski
+  publisher: Genome Research
+  date: '2012-07-05'
+  link: https://doi.org/f38p9d
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.86.031916
+  title: Mathematical modeling of genome replication
+  authors:
+  - Renata Retkute
+  - Conrad A. Nieduszynski
+  - Alessandro de Moura
+  publisher: Physical Review E
+  date: '2012-09-17'
+  link: https://doi.org/gs6s5d
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkr1091
+  title: OriDB, the DNA replication origin database updated and extended
+  authors:
+  - C. C. Siow
+  - S. R. Nieduszynska
+  - C. A. Muller
+  - C. A. Nieduszynski
+  publisher: Nucleic Acids Research
+  date: '2011-11-24'
+  link: https://doi.org/b6pqkk
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1203357
+  title: Comparative Functional Genomics of the Fission Yeasts
+  authors:
+  - Nicholas Rhind
+  - Zehua Chen
+  - Moran Yassour
+  - Dawn A. Thompson
+  - Brian J. Haas
+  - Naomi Habib
+  - Ilan Wapinski
+  - Sushmita Roy
+  - Michael F. Lin
+  - David I. Heiman
+  - Sarah K. Young
+  - Kanji Furuya
+  - Yabin Guo
+  - Alison Pidoux
+  - Huei Mei Chen
+  - Barbara Robbertse
+  - Jonathan M. Goldberg
+  - Keita Aoki
+  - Elizabeth H. Bayne
+  - Aaron M. Berlin
+  - Christopher A. Desjardins
+  - Edward Dobbs
+  - Livio Dukaj
+  - Lin Fan
+  - Michael G. FitzGerald
+  - Courtney French
+  - Sharvari Gujja
+  - Klavs Hansen
+  - Dan Keifenheim
+  - Joshua Z. Levin
+  - Rebecca A. Mosher
+  - "Carolin A. M\xFCller"
+  - Jenna Pfiffner
+  - Margaret Priest
+  - Carsten Russ
+  - Agata Smialowska
+  - Peter Swoboda
+  - Sean M. Sykes
+  - Matthew Vaughn
+  - Sonya Vengrova
+  - Ryan Yoder
+  - Qiandong Zeng
+  - Robin Allshire
+  - David Baulcombe
+  - Bruce W. Birren
+  - William Brown
+  - Karl Ekwall
+  - Manolis Kellis
+  - Janet Leatherwood
+  - Henry Levin
+  - Hanah Margalit
+  - Rob Martienssen
+  - Conrad A. Nieduszynski
+  - Joseph W. Spatafora
+  - Nir Friedman
+  - Jacob Z. Dalgaard
+  - Peter Baumann
+  - Hironori Niki
+  - Aviv Regev
+  - Chad Nusbaum
+  publisher: Science
+  date: '2011-05-20'
+  link: https://doi.org/d3nbzz
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.107.068103
+  title: Dynamics of DNA Replication in Yeast
+  authors:
+  - Renata Retkute
+  - Conrad A. Nieduszynski
+  - Alessandro de Moura
+  publisher: Physical Review Letters
+  date: '2011-08-04'
+  link: https://doi.org/cjq9nh
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbagen.2011.02.004
+  title: 'From sequence to function: Insights from natural variation in budding yeasts'
+  authors:
+  - Conrad A. Nieduszynski
+  - Gianni Liti
+  publisher: Biochimica et Biophysica Acta (BBA) - General Subjects
+  date: '2011-10-01'
+  link: https://doi.org/fj7gwj
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkq343
+  title: Mathematical modelling of whole chromosome replication
+  authors:
+  - Alessandro P. S. de Moura
+  - Renata Retkute
+  - Michelle Hawkins
+  - Conrad A. Nieduszynski
+  publisher: Nucleic Acids Research
+  date: '2010-05-10'
+  link: https://doi.org/dvsn5k
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-60327-815-7_16
+  title: Detection of Replication Origins Using Comparative Genomics and Recombinational
+    ARS Assay
+  authors:
+  - Conrad A. Nieduszynski
+  - Anne D. Donaldson
+  publisher: Methods in Molecular Biology
+  date: '2009-01-01'
+  link: https://doi.org/dndspn
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1000755
+  title: The Origin Recognition Complex Interacts with a Subset of Metabolic Genes
+    Tightly Linked to Origins of Replication
+  authors:
+  - Erika Shor
+  - Christopher L. Warren
+  - Joshua Tietjen
+  - Zhonggang Hou
+  - "Ulrika M\xFCller"
+  - Ilaria Alborelli
+  - Florence H. Gohard
+  - Adrian I. Yemm
+  - Lev Borisov
+  - James R. Broach
+  - Michael Weinreich
+  - Conrad A. Nieduszynski
+  - Aseem Z. Ansari
+  - Catherine A. Fox
+  publisher: PLoS Genetics
+  date: '2009-12-04'
+  link: https://doi.org/dg468x
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.00206-08
+  title: Analysis of Chromosome III Replicators Reveals an Unusual Structure for the
+    <i>ARS318</i> Silencer Origin and a Conserved WTW Sequence within the Origin Recognition
+    Complex Binding Site
+  authors:
+  - FuJung Chang
+  - James F. Theis
+  - Jeremy Miller
+  - Conrad A. Nieduszynski
+  - Carol S. Newlon
+  - Michael Weinreich
+  publisher: Molecular and Cellular Biology
+  date: '2008-08-01'
+  link: https://doi.org/dm5wkt
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkl758
+  title: 'OriDB: a DNA replication origin database'
+  authors:
+  - Conrad A. Nieduszynski
+  - Shin-ichiro Hiraga
+  - Prashanth Ak
+  - Craig J. Benham
+  - Anne D. Donaldson
+  publisher: Nucleic Acids Research
+  date: '2006-11-07'
+  link: https://doi.org/bgc2rn
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gad.385306
+  title: Genome-wide identification of replication origins in yeast by comparative
+    genomics
+  authors:
+  - Conrad A. Nieduszynski
+  - Yvonne Knox
+  - Anne D. Donaldson
+  publisher: Genes &amp; Development
+  date: '2006-07-15'
+  link: https://doi.org/d2drfn
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gki539
+  title: The requirement of yeast replication origins for pre-replication complex
+    proteins is modulated by transcription
+  authors:
+  - C. A. Nieduszynski
+  publisher: Nucleic Acids Research
+  date: '2005-04-28'
+  link: https://doi.org/dvthz2
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1530/rep.1.00131
+  title: Cyclin A1 protein shows haplo-insufficiency for normal fertility in male
+    mice
+  authors:
+  - Tiffany van der Meer
+  - W-Y Iris Chan
+  - Luis S Palazon
+  - Conrad Nieduszynski
+  - Martin Murphy
+  - "Joelle Sobczak-The\u0301pot"
+  - Mark Carrington
+  - William H Colledge
+  publisher: Reproduction
+  date: '2004-04-01'
+  link: https://doi.org/dwcdxb
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.24.20.8917-8928.2004
+  title: The Cyclin A1-CDK2 Complex Regulates DNA Double-Strand Break Repair
+  authors:
+  - "Carsten M\xFCller-Tidow"
+  - Ping Ji
+  - Sven Diederichs
+  - Jenny Potratz
+  - "Nicole B\xE4umer"
+  - "Gabriele K\xF6hler"
+  - Thomas Cauvet
+  - Chunaram Choudary
+  - Tiffany van der Meer
+  - Wan-Yu Iris Chan
+  - Conrad Nieduszynski
+  - William H. Colledge
+  - Mark Carrington
+  - H. Phillip Koeffler
+  - Anja Restle
+  - "Lisa Wiesm\xFCller"
+  - "Jo\xEBlle Sobczak-Th\xE9pot"
+  - Wolfgang E. Berdel
+  - Hubert Serve
+  publisher: Molecular and Cellular Biology
+  date: '2004-10-01'
+  link: https://doi.org/d4ncdp
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gad.231602
+  title: Ku complex controls the replication time of DNA in telomere regions
+  authors:
+  - Andrew J. Cosgrove
+  - Conrad A. Nieduszynski
+  - Anne D. Donaldson
+  publisher: Genes &amp; Development
+  date: '2002-10-01'
+  link: https://doi.org/cs66gx
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2002-3-12-research0070
+  title: ''
+  authors:
+  - Conrad A Nieduszynski
+  - James Murray
+  - Mark Carrington
+  publisher: Genome Biology
+  date: '2002-01-01'
+  link: https://doi.org/bfr8ks
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC138988
+  title: 'Chromosome replication: from ORC to fork.'
+  authors:
+  - Conrad A Nieduszynski
+  - Anne D Donaldson
+  - J Julian Blow
+  publisher: Genome Biology
+  date: '2022-05-24'
+  link: http://europepmc.org/abstract/PMC/PMC138988
+  orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +847,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +863,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
