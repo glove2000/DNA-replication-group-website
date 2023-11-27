@@ -1,5 +1,5 @@
 ---
-name: Conrad Nieduszynski
+name: Conrad A. Nieduszynski
 image: images/photo.jpg
 role: pi
 aliases:
