@@ -3,6 +3,10 @@ name: Carolin Müller
 image: images/Carolin.jpg
 role: postdoc
 group: alum
+aliases:
+  - Carolin A. Müller
+  - Carolin Müller
+  - C.A. Müller
 links:
   github: john-doe
 ---
