@@ -1,6 +1,6 @@
 ---
 name: Anna Rogers
-image: images/photo.jpg
+image: images/anna-rogers-web-profile.jpg
 role: postdoc
 ---
 
