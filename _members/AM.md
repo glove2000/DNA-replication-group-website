@@ -1,5 +1,5 @@
 ---
-name: C
+name: Angela Man
 image: images/photo.jpg
 role: postdoc
 ---
