@@ -1,6 +1,6 @@
 ---
 name: Georgia Love
-image: images/photo.jpg
+image: images/georgia-love-web-profile.jpg
 role: undergrad
 description: Year in Industry Student
 ---
