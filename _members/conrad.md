@@ -1,6 +1,6 @@
 ---
 name: Conrad A. Nieduszynski
-image: images/photo.jpg
+image: images/conrad-nieduszynski-web-profile.jpg
 role: pi
 aliases:
   - C. Nieduszynski
