@@ -1,5 +1,5 @@
 ---
-name: C
+name: Carolin Müller
 image: images/photo.jpg
 role: postdoc
 group: alum
