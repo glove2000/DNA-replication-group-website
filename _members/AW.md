@@ -1,6 +1,6 @@
 ---
 name: Ana Wallis
-image: images/Ana.jpg
+image: images/Ana.png
 role: phd
 group: alum
 aliases:
