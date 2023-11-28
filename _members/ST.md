@@ -1,6 +1,6 @@
 ---
 name: Sathish Thiyagarajan
-image: images/photo.jpg
+image: images/sathish-thiyagarajan-web-profile.jpg
 description: Computational Biologist
 role: postdoc
 ---
