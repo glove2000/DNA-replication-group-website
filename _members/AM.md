@@ -1,6 +1,6 @@
 ---
 name: Angela Man
-image: images/photo.jpg
+image: images/angela-man-web.jpg
 role: postdoc
 ---
 
