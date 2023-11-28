@@ -1,18 +1,16 @@
 # site properties and page defaults
-title: DNAReplicationLab
+title: DNA Replication Group
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Exploring the impact of DNA replication on genome evolution and stability.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@DNAReplicationLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: conrad.nieduszynski@earlham.ac.uk
+  orcid: 0000-0003-2001-076X
   github: DNAReplicationLab
-  twitter: DNAReplicationLab
-  youtube: DNAReplicationLab
+  twitter: DNARepliLab
 
 ### jekyll settings
 
