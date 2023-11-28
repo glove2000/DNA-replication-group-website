@@ -5,6 +5,7 @@ role: postdoc
 group: alum
 aliases:
   - Dzmitry G. Batrakou
+  - Dzmitry G Batrakou
 links:
   linkedin: dzmitry-batrakou-45923934
 ---
