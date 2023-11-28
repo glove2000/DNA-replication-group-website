@@ -1,7 +1,7 @@
 ---
 name: C
 image: images/photo.jpg
-role: phd
+role: postdoc
 group: alum
 links:
   github: john-doe
