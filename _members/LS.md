@@ -1,6 +1,6 @@
 ---
 name: Lukasz Sitko
-image: images/photo.jpg
+image: images/Lukasz-Sitko-web-profile.jpg
 role: phd
 ---
 
