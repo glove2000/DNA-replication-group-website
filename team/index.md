@@ -16,6 +16,8 @@ We are a friendly group!  Current research group members:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
+If you are interested in joining us, please get in touch with Conrad.  
+  
 Previous group members:
 
 {% include section.html %}
