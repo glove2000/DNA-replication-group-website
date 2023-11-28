@@ -24,12 +24,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$), group: alum" %}
 
 {% include grid.html style="square" content=content %}
