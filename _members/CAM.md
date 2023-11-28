@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: C
 image: images/photo.jpg
 role: phd
 group: alum
