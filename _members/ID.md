@@ -1,6 +1,6 @@
 ---
 name: Isabel Diez Santos
-image: images/photo.jpg
+image: images/isobel-diez-web-profile-2.jpg
 role: postdoc
 ---
 
