@@ -823,8 +823,8 @@
   date: '2002-01-01'
   link: https://doi.org/bfr8ks
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: pmc:PMC138988
   title: 'Chromosome replication: from ORC to fork.'
   authors:
