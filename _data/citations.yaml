@@ -882,3 +882,14 @@
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3390/genes10030196
+  title: Cohesin-Mediated Genome Architecture Does Not Define DNA Replication Timing
+    Domains
+  authors:
+  - Phoebe Oldach
+  - Conrad A. Nieduszynski
+  publisher: Genes
+  date: '2019-03-04'
+  link: https://doi.org/gptjf7
+  plugin: sources.py
+  file: sources.yaml
