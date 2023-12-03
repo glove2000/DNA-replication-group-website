@@ -1,5 +1,5 @@
 - id: doi:10.1101/2023.09.04.556195
-  my_comment: Schizosaccharomyces japonicus T2T preprint
+  my_comment: Schizosaccharomyces japonicus T2T preprint, 2023
   publisher: bioRxiv
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
   tags:
@@ -7,7 +7,7 @@
    - fission yeast
 
 - id: doi:10.1101/2023.09.04.556188
-  my_comment: Schizosaccharomyces versatilis preprint
+  my_comment: Schizosaccharomyces versatilis preprint, 2023
   publisher: bioRxiv
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
   tags:
@@ -22,11 +22,16 @@
    - synthetic biology
 
 - id: doi:10.1128/mbio.01777-22
-  my_comment: paper with Wolfe & Butler on Candida parapsilosis
+  my_comment: paper with Wolfe & Butler on Candida parapsilosis, 2022
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
 
+- id: doi:10.1186/s13059-019-1719-y
+  my_comment: single cell review, 2019
+  tags:
+  - review
+
 - id: doi:10.1038/s41592-019-0394-y
-  my_comment: Nat Methods DNAscent paper
+  my_comment: Nat Methods DNAscent paper, 2019
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
   tags:
    - new method
@@ -40,7 +45,7 @@
   image: https://images.app.goo.gl/tQna737kxaAXB1M69
 
 - id: doi:10.1093/nar/gky590
-  my_comment: ddPCR method paper
+  my_comment: ddPCR method paper, 2018
   image: images/ddPCR.png
   tags:
   - new method
