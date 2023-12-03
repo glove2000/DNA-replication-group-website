@@ -1,32 +1,32 @@
-# Schizosaccharomyces japonicus T2T preprint
 - id: doi:10.1101/2023.09.04.556195
+  my_comment: Schizosaccharomyces japonicus T2T preprint
   publisher: bioRxiv
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
   tags:
    - genome assembly
    - fission yeast
 
-# Schizosaccharomyces versatilis preprint  
 - id: doi:10.1101/2023.09.04.556188
+  my_comment: Schizosaccharomyces versatilis preprint
   publisher: bioRxiv
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
   tags:
    - genome assembly
    - fission yeast
 
-# Cell, 2023, neoChr paper
 - id: doi:10.1016/j.cell.2023.10.015
+  my_comment: Cell, 2023, neoChr paper
   image: https://www.cell.com/cms/attachment/431d7796-8b2c-404d-b54a-e1ea57864d8b/fx1.jpg
   tags:
    - budding yeast
    - synthetic biology
 
-# paper with Wolfe & Butler on Candida parapsilosis
 - id: doi:10.1128/mbio.01777-22
+  my_comment: paper with Wolfe & Butler on Candida parapsilosis
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
 
-# Nat Methods DNAscent paper
 - id: doi:10.1038/s41592-019-0394-y
+  my_comment: Nat Methods DNAscent paper
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
   tags:
    - new method
@@ -61,26 +61,26 @@
   tags:
   - mathematical modelling
 
-# Mol Cell, 2013, CEN replication timing paper
 - id: doi:10.1016/j.molcel.2013.05.011
+  my_comment: Mol Cell, 2013, CEN replication timing paper
   image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
   tags:
    - budding yeast
 
-# H. volcanii nature paper  
 - id: doi:10.1038/nature12650
+  my_comment: H. volcanii nature paper  
   image: images/Hv_replication.png
   tags:
    - H. volcanii
 
-# Genome Biology PhD paper, 2002
 - id: doi:10.1186/gb-2002-3-12-research0070
+  my_comment: Genome Biology PhD paper, 2002
   title: Whole-genome analysis of animal A- and B-type cyclins
   tags:
    - comparative genomics
 
-# Genome Biology meeting report, 2001
 - id: doi:10.1186/gb-2001-2-12-reports4030
+  my_comment: Genome Biology meeting report, 2001
   title: Chromosome replication: from ORC to fork
   date: 2001-01-01
   image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
