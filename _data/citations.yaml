@@ -186,35 +186,45 @@
   tags:
   - genome assembly
   - fission yeast
-- id: doi:10.1101/442814
+- id: doi:10.1038/s41592-019-0394-y
   title: Capturing the dynamics of genome replication on individual ultra-long nanopore
     sequence reads
   authors:
-  - "Carolin A M\xFCller"
-  - Michael A Boemo
+  - "Carolin A. M\xFCller"
+  - Michael A. Boemo
   - Paolo Spingardi
-  - Benedikt M Kessler
+  - Benedikt M. Kessler
   - Skirmantas Kriaucionis
-  - Jared T Simpson
-  - Conrad A Nieduszynski
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-10-16'
-  link: https://doi.org/ggrsdc
+  - Jared T. Simpson
+  - Conrad A. Nieduszynski
+  publisher: Nature Methods
+  date: '2019-04-22'
+  link: https://doi.org/gfzr9j
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/542902
-  title: Cohesin-mediated genome architecture does not define DNA replication timing
-    domains
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: Nat Methods DNAscent paper, 2019
+  image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
+  tags:
+  - new method
+  - nanopore
+  - DNAscent
+  - budding yeast
+- id: doi:10.3390/genes10030196
+  title: Cohesin-Mediated Genome Architecture Does Not Define DNA Replication Timing
+    Domains
   authors:
   - Phoebe Oldach
-  - Conrad A Nieduszynski
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-06'
-  link: https://doi.org/gkvfbw
+  - Conrad A. Nieduszynski
+  publisher: Genes
+  date: '2019-03-04'
+  link: https://doi.org/gptjf7
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: cohesion paper, 2019
+  tags:
+  - cultured mammalian cells
 - id: doi:10.1093/nar/gky590
   title: Rapid high-resolution measurement of DNA replication timing by droplet digital
     PCR
@@ -952,42 +962,5 @@
   tags:
   - genome assembly
   - fission yeast
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41592-019-0394-y
-  title: Capturing the dynamics of genome replication on individual ultra-long nanopore
-    sequence reads
-  authors:
-  - "Carolin A. M\xFCller"
-  - Michael A. Boemo
-  - Paolo Spingardi
-  - Benedikt M. Kessler
-  - Skirmantas Kriaucionis
-  - Jared T. Simpson
-  - Conrad A. Nieduszynski
-  publisher: Nature Methods
-  date: '2019-04-22'
-  link: https://doi.org/gfzr9j
-  my_comment: Nat Methods DNAscent paper, 2019
-  image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
-  tags:
-  - new method
-  - nanopore
-  - DNAscent
-  - budding yeast
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3390/genes10030196
-  title: Cohesin-Mediated Genome Architecture Does Not Define DNA Replication Timing
-    Domains
-  authors:
-  - Phoebe Oldach
-  - Conrad A. Nieduszynski
-  publisher: Genes
-  date: '2019-03-04'
-  link: https://doi.org/gptjf7
-  my_comment: cohesion paper, 2019
-  tags:
-  - cultured mammalian cells
   plugin: sources.py
   file: sources.yaml
