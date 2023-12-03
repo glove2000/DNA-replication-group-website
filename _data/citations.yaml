@@ -221,7 +221,12 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: ddPCR method paper
   image: images/ddPCR.png
+  tags:
+  - new method
+  - budding yeast
+  - cultured mammalian cells
 - id: doi:10.1093/molbev/msy075
   title: 'Evolution of Genome Architecture in Archaea: Spontaneous Generation of a
     New Chromosome in Haloferax volcanii'
@@ -337,8 +342,11 @@
   date: '2016-01-01'
   link: https://doi.org/gs7p4r
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comments: 2016 review
+  tags:
+  - review
 - id: doi:10.1038/nsmb.2962
   title: A global profile of replicative polymerase usage
   authors:
@@ -394,7 +402,11 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: NAR HTS methods paper, 2013
   image: images/24089142.jpg
+  tags:
+  - new method
+  - budding yeast
 - id: doi:10.1371/journal.pgen.1003798
   title: A Link between ORC-Origin Binding Mechanisms and Origin Activation Time Revealed
     in Budding Yeast
