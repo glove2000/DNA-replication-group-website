@@ -45,6 +45,7 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: Cell, 2023, neoChr paper
   image: https://www.cell.com/cms/attachment/431d7796-8b2c-404d-b54a-e1ea57864d8b/fx1.jpg
   tags:
   - budding yeast
@@ -72,6 +73,7 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: paper with Wolfe & Butler on Candida parapsilosis
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
 - id: doi:10.1103/PhysRevE.103.052410
   title: Effectiveness of glass beads for plating cell cultures
@@ -422,6 +424,7 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: H. volcanii nature paper
   image: images/Hv_replication.png
   tags:
   - H. volcanii
@@ -439,12 +442,28 @@
   orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1201/b16586
-  title: Investigations in Yeast Functional Genomics and Molecular Biology
-  authors: []
-  publisher: Apple Academic Press
-  date: '2014-02-24'
-  link: https://doi.org/gs7p4s
+- id: doi:10.1186/1471-2164-14-69
+  title: High quality de novo sequencing and assembly of the Saccharomyces arboricolus
+    genome
+  authors:
+  - Gianni Liti
+  - Alex N Nguyen Ba
+  - Martin Blythe
+  - "Carolin A M\xFCller"
+  - "Anders Bergstr\xF6m"
+  - Francisco A Cubillos
+  - Felix Dafhnis-Calas
+  - Shima Khoshraftar
+  - Sunir Malla
+  - Neel Mehta
+  - Cheuk C Siow
+  - Jonas Warringer
+  - Alan M Moses
+  - Edward J Louis
+  - Conrad A Nieduszynski
+  publisher: BMC Genomics
+  date: '2013-01-01'
+  link: https://doi.org/vgv
   orcid: 0000-0003-2001-076X
   plugin: orcid.py
   file: orcid.yaml
@@ -488,6 +507,7 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: Mol Cell, 2013, CEN replication timing paper
   image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
   tags:
   - budding yeast
@@ -848,7 +868,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/gb-2002-3-12-research0070
-  title: ''
+  title: Whole-genome analysis of animal A- and B-type cyclins
   authors:
   - Conrad A Nieduszynski
   - James Murray
@@ -859,8 +879,11 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: Genome Biology PhD paper, 2002
+  tags:
+  - comparative genomics
 - id: doi:10.1186/gb-2001-2-12-reports4030
-  title: ''
+  title: 'Chromosome replication: from ORC to fork'
   authors:
   - Conrad A Nieduszynski
   - Anne D Donaldson
@@ -871,7 +894,10 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: Genome Biology meeting report, 2001
   image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
+  tags:
+  - review
 - id: doi:10.1101/2023.09.04.556195
   title: Telomere-to-telomere<i>Schizosaccharomyces japonicus</i>genome assembly reveals
     hitherto unknown genome features
@@ -884,7 +910,11 @@
   publisher: bioRxiv
   date: '2023-09-06'
   link: https://doi.org/gs6tbj
+  my_comment: Schizosaccharomyces japonicus T2T preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
+  tags:
+  - genome assembly
+  - fission yeast
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.09.04.556188
@@ -898,7 +928,11 @@
   publisher: bioRxiv
   date: '2023-09-06'
   link: https://doi.org/gs7p32
+  my_comment: Schizosaccharomyces versatilis preprint
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
+  tags:
+  - genome assembly
+  - fission yeast
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41592-019-0394-y
@@ -915,7 +949,13 @@
   publisher: Nature Methods
   date: '2019-04-22'
   link: https://doi.org/gfzr9j
+  my_comment: Nat Methods DNAscent paper
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
+  tags:
+  - new method
+  - nanopore
+  - DNAscent
+  - budding yeast
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/genes10030196
