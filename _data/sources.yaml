@@ -25,8 +25,14 @@
 - id: doi:10.1128/mbio.01777-22
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
 
+# Nat Methods DNAscent paper
 - id: doi:10.1038/s41592-019-0394-y
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
+  tags:
+   - new method
+   - nanopore
+   - DNAscent
+   - budding yeast
 
 - id: doi:10.3390/genes10030196
 
