@@ -1,10 +1,18 @@
+# Schizosaccharomyces japonicus T2T preprint
 - id: doi:10.1101/2023.09.04.556195
   publisher: bioRxiv
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
-  
+  tags:
+   - genome assembly
+   - fission yeast
+
+# Schizosaccharomyces versatilis preprint  
 - id: doi:10.1101/2023.09.04.556188
   publisher: bioRxiv
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
+  tags:
+   - genome assembly
+   - fission yeast
 
 # Cell, 2023, neoChr paper
 - id: doi:10.1016/j.cell.2023.10.015
@@ -13,15 +21,9 @@
    - budding yeast
    - synthetic biology
 
-
+# paper with Wolfe & Butler on Candida parapsilosis
 - id: doi:10.1128/mbio.01777-22
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
-
-- id: doi:10.1186/gb-2001-2-12-reports4030
-  date: 2001-01-01
-  image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
-
-- id: doi:10.1186/gb-2002-3-12-research0070
 
 - id: doi:10.1038/s41592-019-0394-y
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
@@ -64,3 +66,17 @@
   image: images/Hv_replication.png
   tags:
    - H. volcanii
+
+# Genome Biology PhD paper, 2002
+- id: doi:10.1186/gb-2002-3-12-research0070
+  title: Whole-genome analysis of animal A- and B-type cyclins
+  tags:
+   - comparative genomics
+
+# Genome Biology meeting report, 2001
+- id: doi:10.1186/gb-2001-2-12-reports4030
+  title: Chromosome replication: from ORC to fork
+  date: 2001-01-01
+  image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
+  tags:
+   - review
