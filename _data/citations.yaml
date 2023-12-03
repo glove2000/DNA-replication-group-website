@@ -46,6 +46,9 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.cell.com/cms/attachment/431d7796-8b2c-404d-b54a-e1ea57864d8b/fx1.jpg
+  tags:
+  - budding yeast
+  - synthetic biology
 - id: doi:10.1128/mbio.01777-22
   title: "Systematic Analysis of Copy Number Variations in the Pathogenic Yeast Candida\
     \ parapsilosis Identifies a Gene Amplification in\n            <i>RTA3</i>\n \
@@ -486,6 +489,8 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
+  tags:
+  - budding yeast
 - id: doi:10.1093/nar/gkt728
   title: Replisome stall events have shaped the distribution of replication origins
     in the genomes of yeasts
