@@ -32,7 +32,7 @@
 - id: doi:10.1093/nar/gky590
   image: images/ddPCR.png
 
-- id: images/Müller_Fig_3_panel.png
+- id: doi:10.1101/gr.139477.112
   image: images/Müller_Fig_3_panel.png
   tags:
    - comparative genomics
