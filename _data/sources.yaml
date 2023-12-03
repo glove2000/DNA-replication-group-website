@@ -50,3 +50,8 @@
   image: images/24210825.jpg
   tags:
   - mathematical modelling
+
+- id: doi:10.1038/nature12650
+  image: images/Hv_replication.png
+  tags:
+   - H. volcanii
