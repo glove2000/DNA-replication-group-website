@@ -40,7 +40,17 @@
   image: https://images.app.goo.gl/tQna737kxaAXB1M69
 
 - id: doi:10.1093/nar/gky590
+  my_comment: ddPCR method paper
   image: images/ddPCR.png
+  tags:
+  - new method
+  - budding yeast
+  - cultured mammalian cells
+
+- id: doi:10.1007/978-3-319-24696-3_6
+  my_comments: 2016 review
+  tags:
+  - review
 
 - id: doi:10.1101/gr.139477.112
   image: images/Müller_Fig_3_panel.png
@@ -54,7 +64,11 @@
   - mathematical modelling
 
 - id: doi:10.1093/nar/gkt878
+  my_comment: NAR HTS methods paper, 2013
   image: images/24089142.jpg
+  tags:
+  - new method
+  - budding yeast
 
 - id: doi:10.1016/j.celrep.2013.10.014
   image: images/24210825.jpg
