@@ -34,3 +34,6 @@
 
 - id: images/Müller_Fig_3_panel.png
   image: images/Müller_Fig_3_panel.png
+  tags:
+   - comparative genomics
+   - budding yeast
