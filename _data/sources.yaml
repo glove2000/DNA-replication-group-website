@@ -45,3 +45,8 @@
 
 - id: doi:10.1093/nar/gkt878
   image: images/24089142.jpg
+
+- id: doi:10.1016/j.celrep.2013.10.014
+  image: images/24210825.jpg
+  tags:
+  - mathematical modelling
