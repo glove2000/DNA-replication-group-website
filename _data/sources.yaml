@@ -30,6 +30,12 @@
   tags:
   - review
 
+- id: doi:10.1038/s41467-019-09824-4
+  my_comment: fission yeast centromeres with Robin, 2019
+  tags:
+  - genome assembly
+  - fission yeast
+
 - id: doi:10.1038/s41592-019-0394-y
   my_comment: Nat Methods DNAscent paper, 2019
   image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
@@ -40,6 +46,9 @@
    - budding yeast
 
 - id: doi:10.3390/genes10030196
+  my_comment: cohesion paper, 2019
+  tags:
+  - cultured mammalian cells
 
 - id: doi:10.1038/s41596-019-0287-7
   image: https://images.app.goo.gl/tQna737kxaAXB1M69
