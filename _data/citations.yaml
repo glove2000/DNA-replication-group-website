@@ -86,8 +86,12 @@
   date: '2021-05-17'
   link: https://doi.org/gj3ng5
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comments: PRE paper with RR, 2021
+  image: https://journals.aps.org/pre/article/10.1103/PhysRevE.103.052410/figures/1/medium
+  tags:
+  - mathematical modelling
 - id: doi:10.1016/j.jbc.2021.100533
   title: Tos4 mediates gene expression homeostasis through interaction with HDAC complexes
     independently of H3K56 acetylation
@@ -102,8 +106,10 @@
   date: '2021-01-01'
   link: https://doi.org/gqsr96
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: JBC paper with Rob, 2021
+  image: https://www.jbc.org/cms/attachment/86f83300-193f-491f-b677-0de2f5c21c2f/gr1.jpg
 - id: doi:10.1073/pnas.2004664117
   title: Sir2 mitigates an intrinsic imbalance in origin licensing efficiency between
     early- and late-replicating euchromatin
@@ -117,8 +123,10 @@
   date: '2020-06-08'
   link: https://doi.org/gs6s46
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: PNAS paper with CAF, 2020
+  image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
 - id: doi:10.1038/s41596-019-0287-7
   title: 'DNA copy-number measurement of genome replication dynamics by high-throughput
     sequencing: the sort-seq, sync-seq and MFA-seq family'
