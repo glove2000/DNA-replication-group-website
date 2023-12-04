@@ -84,9 +84,6 @@
   tags:
   - cultured mammalian cells
 
-- id: doi:10.1038/s41596-019-0287-7
-  image: https://images.app.goo.gl/tQna737kxaAXB1M69
-
 - id: doi:10.1093/nar/gky590
   my_comment: ddPCR method paper, 2018
   image: images/ddPCR.png
@@ -133,7 +130,7 @@
   my_comment: H. volcanii nature paper  
   image: images/Hv_replication.png
   tags:
-   - H. volcanii
+   - archaea
 
 - id: doi:10.1186/gb-2002-3-12-research0070
   my_comment: Genome Biology PhD paper, 2002
