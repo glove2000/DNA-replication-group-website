@@ -141,7 +141,11 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
+  my_comment: protocol paper, 2020
   image: https://images.app.goo.gl/tQna737kxaAXB1M69
+  tags:
+  - new method
+  - budding yeast
 - id: doi:10.1371/journal.pcbi.1007651
   title: 'The Beacon Calculus: A formal method for the flexible and concise modelling
     of biological systems'
@@ -153,8 +157,12 @@
   date: '2020-03-09'
   link: https://doi.org/ggpcxz
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: Beacon calculus paper, 2020
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1007651.g001
+  tags:
+  - mathematical modelling
 - id: doi:10.1186/s13059-019-1719-y
   title: "Genome-wide analysis of DNA replication timing in single cells: Yes! We\u2019\
     re all individuals"
@@ -168,6 +176,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: single cell review, 2019
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1719-y/MediaObjects/13059_2019_1719_Fig1_HTML.png?as=webp
   tags:
   - review
 - id: doi:10.1038/s41467-019-09824-4
