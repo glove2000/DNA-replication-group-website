@@ -39,6 +39,19 @@
   my_comment: PNAS paper with CAF, 2020
   image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
 
+- id: doi:10.1371/journal.pcbi.1007651
+  my_comment: Beacon calculus paper, 2020
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1007651.g001
+  tags:
+   - mathematical modelling
+
+- id: doi:10.1038/s41596-019-0287-7
+  my_comment: protocol paper, 2020
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png?
+  tags:
+   - new method
+   - budding yeast
+
 - id: doi:10.1186/s13059-019-1719-y
   my_comment: single cell review, 2019
   tags:
