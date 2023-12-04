@@ -146,7 +146,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: protocol paper, 2020
-  image: https://images.app.goo.gl/tQna737kxaAXB1M69
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png
   tags:
   - new method
   - budding yeast
@@ -479,7 +479,7 @@
   my_comment: H. volcanii nature paper
   image: images/Hv_replication.png
   tags:
-  - H. volcanii
+  - archaea
 - id: doi:10.1038/nature12312
   title: Avoiding chromosome pathology when replication forks collide
   authors:
