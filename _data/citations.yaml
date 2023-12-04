@@ -180,7 +180,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: single cell review, 2019
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1719-y/MediaObjects/13059_2019_1719_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-019-1719-y/MediaObjects/13059_2019_1719_Fig1_HTML.png
   tags:
   - review
 - id: doi:10.1038/s41467-019-09824-4
@@ -204,6 +204,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: fission yeast centromeres with Robin, 2019
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-09824-4/MediaObjects/41467_2019_9824_Fig1_HTML.png
   tags:
   - genome assembly
   - fission yeast
@@ -225,7 +226,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: Nat Methods DNAscent paper, 2019
-  image: https://images.app.goo.gl/BxVPwxUmW6RHxBTv7
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
   - new method
   - nanopore
@@ -244,6 +245,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: cohesion paper, 2019
+  image: https://www.mdpi.com/genes/genes-10-00196/article_deploy/html/images/genes-10-00196-g003.png
   tags:
   - cultured mammalian cells
 - id: doi:10.1093/nar/gky590
