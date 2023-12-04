@@ -92,6 +92,12 @@
   - budding yeast
   - cultured mammalian cells
 
+- id:  doi:10.1093/molbev/msy075
+  my_comment: Dasha's Hv paper, 2018
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/35/8/10.1093_molbev_msy075/1/m_msy075f1.jpeg?Expires=1704203197&Signature=i~VOUVUABJZf9DpsMU2Fzj3uD-9bibQ1qmBlnyB9rRhnG3xCLYH99NYkBmCxQikCJQVM~HppBw102hf5lJftUOV9HeMa5NCKCUN5zM8YUQHENanAKajNHsDmup054dzzWYyjJuPT1m3E7nGgQ3ujRLew-6IKlvr-xnG1hzboZUyERY2boVLAlzmAZEcv~jhS4w4ZE9s9~AKiE6RWNnPcLhqSI7rTFqmimex-U988JKo6j9y-3-jRNXKRT6DpO95lHFVnhTicgJxF1MTzpcHVoLn59mzojTOxsdg79eQW-ebN2hgjNTJIOHuSN-r9gs0VOFrhyDyQgLwetyrVRiP4JQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - archaea
+
 - id: doi:10.1007/978-3-319-24696-3_6
   my_comments: 2016 review
   tags:
