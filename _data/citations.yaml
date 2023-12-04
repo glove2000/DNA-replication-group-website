@@ -110,6 +110,8 @@
   file: sources.yaml
   my_comment: JBC paper with Rob, 2021
   image: https://www.jbc.org/cms/attachment/86f83300-193f-491f-b677-0de2f5c21c2f/gr1.jpg
+  tags:
+  - budding yeast
 - id: doi:10.1073/pnas.2004664117
   title: Sir2 mitigates an intrinsic imbalance in origin licensing efficiency between
     early- and late-replicating euchromatin
@@ -127,6 +129,8 @@
   file: sources.yaml
   my_comment: PNAS paper with CAF, 2020
   image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
+  tags:
+  - budding yeast
 - id: doi:10.1038/s41596-019-0287-7
   title: 'DNA copy-number measurement of genome replication dynamics by high-throughput
     sequencing: the sort-seq, sync-seq and MFA-seq family'
