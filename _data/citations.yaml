@@ -305,8 +305,12 @@
   date: '2018-02-26'
   link: https://doi.org/gdk5xg
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: RIF1 with Anne, 2018
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/46/8/10.1093_nar_gky132/1/m_gky132fig5.jpeg?Expires=1703041140&Signature=gW5IWf0r3K42Er-f~LR9Q28TQl6~vYEUsWZQ0f2wyAfSERV7H8oZmBm1yG~eWv2Ep-lihe6FP6KIASIaciyI99n6IPKM-MdfN7NpYESzxK6Kp9UV8rMUxBj2gPvQzmFz3Eo9UD9HOcSwhSidds5HhmOPZSB2V4uFZ8N5Rp5lvUd9a2Rnzoq1iFCssMFGdH4ybDK6Ma18B68YmYUj9CLu4l99zyV04m~JvlCYL2JqdCrIPaU67Cvc6P9oPk4Zwy7-jdH-bCLvsx9XF0d0Xy4tOYieW7eNBME3u-Ooyn9jcoEA0OYSDbCjynQr20pJLWJaiesU6OixLItwQYDbhTaQGg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - budding yeast
 - id: doi:10.12688/wellcomeopenres.13884.1
   title: Investigating the role of Rts1 in DNA replication initiation
   authors:
@@ -316,8 +320,11 @@
   date: '2018-03-06'
   link: https://doi.org/gdhd9m
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: Ana's RTS1 paper, 2018
+  tags:
+  - budding yeast
 - id: doi:10.1083/jcb.201701061
   title: DNA replication timing influences gene expression level
   authors:
@@ -327,8 +334,12 @@
   date: '2017-05-24'
   link: https://doi.org/gbmkbc
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: CAM histone paper, 2017
+  tags:
+  - budding yeast
+  - comparative genomics
 - id: doi:10.1126/science.aaf4791
   title: Deep functional analysis of synII, a 770-kilobase synthetic yeast chromosome
   authors:
@@ -376,8 +387,13 @@
   date: '2017-03-10'
   link: https://doi.org/gbgf5j
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: synII, 2017
+  image: images/Sc2.0_logo.png
+  tags:
+  - budding yeast
+  - synthetic biology
 - id: doi:10.1007/978-3-319-24696-3_6
   title: Global and Local Regulation of Replication Origin Activity
   authors:
