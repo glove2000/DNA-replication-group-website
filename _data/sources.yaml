@@ -25,6 +25,20 @@
   my_comment: paper with Wolfe & Butler on Candida parapsilosis, 2022
   image: https://journals.asm.org/cms/10.1128/mbio.01777-22/asset/5ff8ad2e-f350-4ebb-9812-3d3e1ff24e5a/assets/images/medium/mbio.01777-22-f003.gif
 
+- id: doi:10.1103/PhysRevE.103.052410
+  my_comments: PRE paper with RR, 2021
+  image: https://journals.aps.org/pre/article/10.1103/PhysRevE.103.052410/figures/1/medium
+  tags:
+   - mathematical modelling
+
+- id: doi:10.1016/j.jbc.2021.100533
+  my_comment: JBC paper with Rob, 2021
+  image: https://www.jbc.org/cms/attachment/86f83300-193f-491f-b677-0de2f5c21c2f/gr1.jpg
+
+- id: doi:10.1073/pnas.2004664117
+  my_comment: PNAS paper with CAF, 2020
+  image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
+
 - id: doi:10.1186/s13059-019-1719-y
   my_comment: single cell review, 2019
   tags:
