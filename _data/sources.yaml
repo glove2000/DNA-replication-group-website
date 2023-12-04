@@ -115,12 +115,12 @@
   - budding yeast
   - comparative genomics
 
- - id: doi:10.1126/science.aaf4791
-   my_comment: synII, 2017
-   image: images/Sc2.0_logo.png
-   tags:
-   - budding yeast
-   - synthetic biology
+- id: doi:10.1126/science.aaf4791
+  my_comment: synII, 2017
+  image: images/Sc2.0_logo.png
+  tags:
+  - budding yeast
+  - synthetic biology
 
 - id: doi:10.1007/978-3-319-24696-3_6
   my_comments: 2016 review
