@@ -140,18 +140,6 @@
   - fission yeast
   - new method
 
-- id: doi:10.1101/gr.139477.112
-  my_comment: CAM sensu stricto
-  image: images/Müller_Fig_3_panel.png
-  tags:
-   - comparative genomics
-   - budding yeast
-
-- id: doi:10.1103/PhysRevE.86.031916
-  image: images/23030953.jpg
-  tags:
-  - mathematical modelling
-
 - id: doi:10.1093/nar/gkt878
   my_comment: NAR HTS methods paper, 2013
   image: images/24089142.jpg
@@ -160,9 +148,17 @@
   - budding yeast
 
 - id: doi:10.1016/j.celrep.2013.10.014
+  my_comment: MH and RR modelling paper, 2013
   image: images/24210825.jpg
   tags:
   - mathematical modelling
+  - budding yeast
+
+- id: doi:10.1093/nar/gkt728
+  my_comment: ori distribution with JJB, 2013
+  tags:
+  - mathematical modelling
+  - budding yeast
 
 - id: doi:10.1016/j.molcel.2013.05.011
   my_comment: Mol Cell, 2013, CEN replication timing paper
@@ -171,10 +167,23 @@
    - budding yeast
 
 - id: doi:10.1038/nature12650
-  my_comment: H. volcanii nature paper  
+  my_comment: H. volcanii nature paper, 2013
   image: images/Hv_replication.png
   tags:
    - archaea
+
+- id: doi:10.1103/PhysRevE.86.031916
+  my_comment: PRE paper, 2012
+  image: images/23030953.jpg
+  tags:
+  - mathematical modelling
+
+- id: doi:10.1101/gr.139477.112
+  my_comment: CAM sensu stricto, 2012
+  image: images/Müller_Fig_3_panel.png
+  tags:
+   - comparative genomics
+   - budding yeast
 
 - id: doi:10.1186/gb-2002-3-12-research0070
   my_comment: Genome Biology PhD paper, 2002
