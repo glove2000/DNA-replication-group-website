@@ -127,7 +127,14 @@
   tags:
   - review
 
+- id: doi:10.1016/j.cub.2015.06.023
+  my_comment: CEN with Tomo & Ken, 2015
+  tags:
+  - comparative genomics
+  - budding yeast
+
 - id: doi:10.1101/gr.139477.112
+  my_comment: CAM sensu stricto
   image: images/Müller_Fig_3_panel.png
   tags:
    - comparative genomics
