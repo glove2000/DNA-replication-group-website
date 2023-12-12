@@ -609,6 +609,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: ori distribution with JJB, 2013
+  image: images/blow&newman.png
   tags:
   - mathematical modelling
   - budding yeast
