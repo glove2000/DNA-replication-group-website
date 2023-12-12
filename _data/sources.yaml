@@ -186,6 +186,14 @@
    - comparative genomics
    - budding yeast
 
+- id: doi:10.1101/gad.385306
+  my_comment: G&D comparative genomics
+  image: images/ori_conservation.png
+  tags:
+   - comparative genomics
+   - budding yeast
+   - new method
+
 - id: doi:10.1186/gb-2002-3-12-research0070
   my_comment: Genome Biology PhD paper, 2002
   title: Whole-genome analysis of animal A- and B-type cyclins
