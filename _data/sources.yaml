@@ -156,6 +156,7 @@
 
 - id: doi:10.1093/nar/gkt728
   my_comment: ori distribution with JJB, 2013
+  image: images/blow&newman.png
   tags:
   - mathematical modelling
   - budding yeast
