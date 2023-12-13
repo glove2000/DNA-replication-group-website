@@ -185,6 +185,17 @@
   tags:
    - budding yeast
 
+- id: doi:10.1038/nature12312
+  my_comment: RL E. coli, 2013
+  tags:
+   - E. coli
+
+- id: doi:10.1186/1471-2164-14-69
+  my_comment: Sa assembly, 2013
+  tags:
+   - budding yeast
+   - genome assembly
+
 - id: doi:10.1103/PhysRevE.86.031916
   my_comment: PRE paper, 2012
   image: images/23030953.jpg
