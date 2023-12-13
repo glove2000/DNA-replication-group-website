@@ -209,8 +209,10 @@
    - comparative genomics
    - budding yeast
 
+
+
 - id: doi:10.1101/gad.385306
-  my_comment: G&D comparative genomics
+  my_comment: G&D comparative genomics, 2006
   image: images/ori_conservation.png
   tags:
    - comparative genomics
