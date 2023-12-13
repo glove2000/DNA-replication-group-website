@@ -525,8 +525,11 @@
   date: '2013-07-28'
   link: https://doi.org/f49wkg
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: RL E. coli, 2013
+  tags:
+  - E. coli
 - id: doi:10.1186/1471-2164-14-69
   title: High quality de novo sequencing and assembly of the Saccharomyces arboricolus
     genome
@@ -550,8 +553,12 @@
   date: '2013-01-01'
   link: https://doi.org/vgv
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: Sa assembly, 2013
+  tags:
+  - budding yeast
+  - genome assembly
 - id: doi:10.1016/j.celrep.2013.10.014
   title: High-Resolution Replication Profiles Define the Stochastic Nature of Genome
     Replication Initiation and Termination
