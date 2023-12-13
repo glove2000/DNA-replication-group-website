@@ -903,7 +903,7 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: G&D comparative genomics
+  my_comment: G&D comparative genomics, 2006
   image: images/ori_conservation.png
   tags:
   - comparative genomics
