@@ -24,7 +24,7 @@ We have developed a series of innovative genomic technolgies to determine DNA re
 
 ## Lab resources
 
-# Databases
+### Databases
 
 Database resources
 
@@ -32,25 +32,25 @@ Database resources
 
 {% include section.html %}
 
-# Computer scripts and packages
+### Computer scripts and packages
 
 {% include list.html component="card" data="projects" filters="group: script" %}
 
 {% include section.html %}
 
-# Data visualisation
+### Data visualisation
 
 {% include list.html component="card" data="projects" filters="group: visualisation" %}
 
 {% include section.html %}
 
-# Outreach
+### Outreach
 
 {% include list.html component="card" data="projects" filters="group: outreach" %}
 
 {% include section.html %}
 
 
-## More
+### More
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
