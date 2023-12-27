@@ -9,14 +9,16 @@ nav:
 
 {% capture text %}
 
-Our research projects.
+
+*From intitiation, to forks and termination*
+We have developed a series of innovative genomic technolgies to determine DNA replication dyanmics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png"
-  title="Our research"
+  image="https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig3_HTML.png"
+  title="DNA replication dynamics"
   text=text
 %}
 
