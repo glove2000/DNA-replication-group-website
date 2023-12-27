@@ -38,6 +38,10 @@
       {{ include.description | markdownify }}
     {% endif %}
 
+    {% if include.citations %}
+      {% include citation.html lookup=include.citations %}
+    {% endif %}
+    
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
