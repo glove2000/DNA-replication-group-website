@@ -1,10 +1,10 @@
-- title: DNA replication dynamics
-  subtitle: From intitiation, to forks and termination
-  group: featured
+- title: OriDB
+  subtitle: The DNA Replication Origin Database
+  group: database
   image: images/photo.jpg
-  description: We have developed a series of innovative genomic technolgies to determine DNA replication dyanmics. Both population-level and single molecule approaches have allowed discovery to sites of replication initiation and subsequent replication dynamics.
+  description: OriDB provides a catalogue of confirmed and predicted DNA replication origin sites. At present this is limited to budding yeast (S. cerevisiae) and fission yeast (S. pombe). If you use OriDB, please cite our paper.
   tags:
-    - project
+    - database
 
 - title: Cool Package
   subtitle: a subtitle
