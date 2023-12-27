@@ -9,7 +9,6 @@ nav:
 
 {% capture text %}
 
-
 *From intitiation, to forks and termination*
 
 We have developed a series of innovative genomic technolgies to determine DNA replication dyanmics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
@@ -23,23 +22,34 @@ We have developed a series of innovative genomic technolgies to determine DNA re
   text=text
 %}
 
+## Lab resources
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# Databases
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Database resources
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+{% include list.html component="card" data="projects" filters="group: databases" %}
 
 {% include section.html %}
 
-## Featured
+# Computer scripts and packages
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: scripts" %}
 
 {% include section.html %}
+
+# Data visualisation
+
+{% include list.html component="card" data="projects" filters="group: visualisation" %}
+
+{% include section.html %}
+
+# Outreach
+
+{% include list.html component="card" data="projects" filters="group: outreach" %}
+
+{% include section.html %}
+
 
 ## More
 
