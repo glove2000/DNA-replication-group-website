@@ -3,7 +3,7 @@
 
 # DNA Replication Group
 
-An engaging 1-3 sentence description of your lab.
+Exploring the impact of DNA replication on genome evolution and stability.
 
 {% include section.html %}
 
