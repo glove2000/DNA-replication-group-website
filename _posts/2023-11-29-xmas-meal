@@ -14,7 +14,7 @@ The *meme competition* is becoming a bit of a habit! Congratulations to our winn
 
 {%
   include figure.html
-  image="images/"
+  image="images/Christmas_meal_2023.jpeg"
   caption="Group Christmas picture"
   width="400px"
 %}
