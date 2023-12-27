@@ -17,7 +17,7 @@ We have developed a series of innovative genomic technolgies to determine DNA re
 
 {%
   include feature.html
-  image="https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig3_HTML.png"
+  image="images/mosaic_detail.png"
   title="DNA replication dynamics"
   text=text
 %}
