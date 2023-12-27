@@ -1,0 +1,19 @@
+---
+title: Group retreat
+author: conrad
+last_modified_at: ""
+tags:
+  - Science
+---
+<!-- excerpt start -->
+Our first group retreat at the beautiful Earlham Hall on the UEA campus.
+<!-- excerpt end -->
+Lots of great science, lots of ideas for the future and lots more *memes*! All followed by
+a group meal. Congratulations to Angela for winning our first meme competition.
+
+{%
+  include figure.html
+  image="images/"
+  caption="Group picture"
+  width="400px"
+%}
