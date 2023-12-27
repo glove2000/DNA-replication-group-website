@@ -6,15 +6,15 @@
   tags:
     - database
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: D-NAscent
+  subtitle: Detect BrdU in nanopore sequence data
+  group: script
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/MBoemo/DNAscent
+  description: Computer software for detection of site of BrdU incorporation in nanopore sequence data.
   tags:
     - resource
+    - software
 
 - title: Cool Tutorial
   subtitle: a subtitle
