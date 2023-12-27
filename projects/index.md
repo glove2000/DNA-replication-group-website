@@ -13,12 +13,6 @@ nav:
 
 We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
 
-{%
-  include citation.html
-  lookup="doi:10.1016/j.csbj.2020.05.017"
-  style="rich"
-%}
-
 {% endcapture %}
 
 {%
