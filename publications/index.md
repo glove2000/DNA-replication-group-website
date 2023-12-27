@@ -15,6 +15,8 @@ Publications from our group.
 
 {% include citation.html lookup="Design, construction, and functional characterization of a tRNA neochromosome in yeast" style="rich" %}
 
+{% include citation.html lookup="Capturing the dynamics of genome replication on individual ultra-long nanopore sequence reads" style="rich" %}
+
 {% include section.html %}
 
 ## All
