@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/2022-10/EarlhamInstitute%C2%A9Nieduszynski-group-6.jpg?itok=UyJ3eVru"
   link="team"
   title="Our Team"
   text=text
