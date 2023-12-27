@@ -14,7 +14,7 @@ student, Georgia.
 
 {%
   include figure.html
-  image="images/"
+  image="images/Group_tea_2023.jpeg"
   caption="Group picture"
   width="400px"
 %}
