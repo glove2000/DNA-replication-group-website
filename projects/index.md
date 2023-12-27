@@ -28,13 +28,13 @@ We have developed a series of innovative genomic technolgies to determine DNA re
 
 Database resources
 
-{% include list.html component="card" data="projects" filters="group: databases" %}
+{% include list.html component="card" data="projects" filters="group: database" %}
 
 {% include section.html %}
 
 # Computer scripts and packages
 
-{% include list.html component="card" data="projects" filters="group: scripts" %}
+{% include list.html component="card" data="projects" filters="group: script" %}
 
 {% include section.html %}
 
