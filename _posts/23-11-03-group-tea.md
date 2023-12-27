@@ -3,7 +3,7 @@ title: Group trip - afternoon tea
 author: conrad
 last_modified_at: ""
 tags:
-  - Group day out
+  - Group social
 ---
 <!-- excerpt start -->
 Group afternoon tea trip and welcome to our new PhD student, Lukasz, and Year in Industry
