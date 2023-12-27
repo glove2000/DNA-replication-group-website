@@ -1,0 +1,20 @@
+---
+title: Group trip - afternoon tea
+author: conrad
+last_modified_at: ""
+tags:
+  - Group day out
+---
+<!-- excerpt start -->
+Group afternoon tea trip and welcome to our new PhD student, Lukasz, and Year in Industry
+student, Georgia. 
+
+
+<!-- excerpt end -->
+
+{%
+  include figure.html
+  image="images/"
+  caption="Group picture"
+  width="400px"
+%}
