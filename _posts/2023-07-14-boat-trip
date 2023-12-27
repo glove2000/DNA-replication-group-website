@@ -1,0 +1,18 @@
+---
+title: Group boat trip
+author: conrad
+last_modified_at: ""
+tags:
+  - Group day out
+---
+<!-- excerpt start -->
+Our first group day out on *Goose*
+
+<!-- excerpt end -->
+
+{%
+  include figure.html
+  image="images/boat_trip_2023.png"
+  caption="Group picture"
+  width="300px"
+%}
