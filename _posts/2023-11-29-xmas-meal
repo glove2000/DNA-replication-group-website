@@ -1,0 +1,20 @@
+---
+title: Group Christmas meal
+author: conrad
+last_modified_at: ""
+tags:
+  - Group day out
+---
+<!-- excerpt start -->
+Our group 2023 Christmas lunch - thanks to Angela for organising.
+
+<!-- excerpt end -->
+
+The *meme competition* is becoming a bit of a habit! Congratulations to our winner: Satish.
+
+{%
+  include figure.html
+  image="images/"
+  caption="Group Christmas picture"
+  width="400px"
+%}
