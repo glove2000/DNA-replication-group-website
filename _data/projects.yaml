@@ -2,7 +2,7 @@
   subtitle: The DNA Replication Origin Database
   group: database
   image: images/photo.jpg
-  description: OriDB provides a catalogue of confirmed and predicted DNA replication origin sites. At present this is limited to budding yeast (S. cerevisiae) and fission yeast (S. pombe). If you use OriDB, please cite our paper.
+  description: OriDB provides a catalogue of confirmed and predicted DNA replication origin sites. At present this is limited to budding yeast (S. cerevisiae) and fission yeast (S. pombe). If you use OriDB, please cite our paper. {% include citation.html lookup="doi:10.1016/j.csbj.2020.05.017" style="rich" %}
   tags:
     - database
 
@@ -13,7 +13,6 @@
   link: https://github.com/MBoemo/DNAscent
   description: Computer software for detection of site of BrdU incorporation in nanopore sequence data.
   tags:
-    - resource
     - software
 
 - title: Cool Tutorial
