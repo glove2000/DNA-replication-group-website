@@ -1,12 +1,10 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: DNA replication dynamics
+  subtitle: From intitiation, to forks and termination
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We have developed a series of innovative genomic technolgies to determine DNA replication dyanmics. Both population-level and single molecule approaches have allowed discovery to sites of replication initiation and subsequent replication dynamics.
   tags:
-    - resource
+    - project
 
 - title: Cool Package
   subtitle: a subtitle
