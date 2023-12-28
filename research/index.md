@@ -11,15 +11,21 @@ nav:
 
 *Mapping DNA replication origins*
 
-To update... We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
+The sites of DNA replication initiation, called replication origins, are spatially and temporally regulated. We have mapped the sites and characteristics of replication origins across the genome of several model organisms.
 
 {%
   include citation.html
-  lookup="doi:10.1038/s41596-019-0287-7"
+  lookup="doi:10.1038/nsmb.2962"
 %}
+
 {%
   include citation.html
-  lookup="doi:10.1038/s41592-019-0394-y"
+  lookup="doi:10.1038/nature12650"
+%}
+
+{%
+  include citation.html
+  lookup="doi:10.1101/gr.139477.112"
 %}
 
 {% endcapture %}
@@ -35,15 +41,19 @@ To update... We have developed a series of innovative genomic technolgies to det
 
 *From initiation, to forks and termination*
 
-We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
+Genomes are replicated with characteristic temporal dynamics: some regions tend to replicate early in S phase whereas others tend to replicate later. We have measured replication dyanamics, discovered regulatory mechanisms and determined the consequences of perturbed replication dynamics.
 
 {%
   include citation.html
-  lookup="doi:10.1038/s41596-019-0287-7"
+  lookup="doi:10.1083/jcb.201701061"
 %}
 {%
   include citation.html
-  lookup="doi:10.1038/s41592-019-0394-y"
+  lookup="doi:10.1016/j.celrep.2013.10.014"
+%}
+{%
+  include citation.html
+  lookup="doi:10.1016/j.molcel.2013.05.011"
 %}
 
 {% endcapture %}
