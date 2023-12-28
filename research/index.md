@@ -9,9 +9,9 @@ nav:
 
 {% capture text %}
 
-*From intitiation, to forks and termination*
+*Mapping DNA replication origins*
 
-We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
+To update... We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
 
 {%
   include citation.html
@@ -53,6 +53,7 @@ We have developed a series of innovative genomic technolgies to determine DNA re
   image="images/mosaic_detail.png"
   title="DNA replication dynamics"
   text=text
+  flip=true
 %}
 
 {% capture text %}
