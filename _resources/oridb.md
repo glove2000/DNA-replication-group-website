@@ -7,7 +7,7 @@ tags:
 ---
 <!-- excerpt start -->
 
-OriDB provides a catalogue of confirmed and predicted DNA replication origin sites. At present this is limited to budding yeast (S. cerevisiae) and fission yeast (S. pombe).
+OriDB provides a catalogue of confirmed and predicted DNA replication origin sites. At present this is limited to budding yeast (*S. cerevisiae*) and fission yeast (*S. pombe*).
 
 <!-- excerpt end -->
 
