@@ -15,6 +15,10 @@ We have developed a series of innovative genomic technolgies to determine DNA re
 
 {%
   include citation.html
+  lookup="doi:10.1038/s41596-019-0287-7"
+%}
+{%
+  include citation.html
   lookup="doi:10.1038/s41592-019-0394-y"
 %}
 
