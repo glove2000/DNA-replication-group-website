@@ -18,7 +18,7 @@ Read more about our past and ongoing research.
   link="research"
   text="Browse our research projects"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -29,7 +29,7 @@ Read more about our past and ongoing research.
   image="images/replication-fork-polymerases.png"
   link="projects"
   title="Our Projects"
-  flip=true
+  flip=false
   style="bare"
   text=text
 %}
