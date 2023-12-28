@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contac
 nav:
   order: 6
   tooltip: Email, address, and location
