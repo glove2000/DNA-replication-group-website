@@ -20,15 +20,6 @@ Various group resources.
 
 {% include list.html data="resources" component="post-excerpt" filter="tags: ^(?!meme$)" %}
 
-
-### Databases
-
-Database resources
-
-{% include list.html component="card" data="projects" filters="group: database" %}
-
-{% include section.html %}
-
 ### Computer scripts and packages
 
 {% include list.html component="card" data="projects" filters="group: script" %}
