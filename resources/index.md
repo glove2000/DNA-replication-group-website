@@ -7,8 +7,14 @@ nav:
 
 ## Lab resources
 
-Various group resources.
+Various group resources (more coming).
 
-{% include tags.html tags="ovarian cancer, dataset, gene expression, website, database" %}
+{% include section.html %}
+
+{% include search-box.html %}
+
+{% include tags.html tags="software, website, database" link="resources" %}
+
+{% include search-info.html %}
 
 {% include list.html data="resources" component="resource-excerpt" %}
