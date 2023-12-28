@@ -60,7 +60,7 @@ Genomes are replicated with characteristic temporal dynamics: some regions tend 
 
 {%
   include feature.html
-  image="images/mosaic_detail.png"
+  image="images/time_course.png"
   title="DNA replication dynamics"
   text=text
   flip=true
@@ -83,6 +83,31 @@ Genome replication is remarkably accurate and processive. However, some regions 
   include feature.html
   image="images/mosaic_detail.png"
   title="Replication fork progression"
+  text=text
+%}
+
+{% capture text %}
+
+*Designing stable synthetic chromosomes*
+
+The Sc2.0 project has successfully synthesised all 16 native chromosomes in *Saccharomyces cerevisiae*. As part of this international collaboration, we have contributed to the design of synthetic chromosomes to ensure that they are faithfully replicated in cells.
+
+{%
+  include citation.html
+  lookup="doi:10.1016/j.cell.2023.10.015"
+%}
+
+{%
+  include citation.html
+  lookup="doi:10.1126/science.aaf4791"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Sc2.0_logo.png"
+  title="Synthetic genomes"
   text=text
 %}
 
