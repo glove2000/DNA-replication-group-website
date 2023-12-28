@@ -13,7 +13,7 @@ Various group resources.
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
+{% include tags.html tags=page.tags %}
 
 {% include search-info.html %}
 
