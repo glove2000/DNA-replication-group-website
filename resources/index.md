@@ -18,7 +18,7 @@ Various group resources.
 
 {% include search-info.html %}
 
-{% include list.html data="resources" component="post-excerpt" filter="tags: ^(?!meme$)" %}
+{% include list.html data="resources" component="resource-excerpt" filter="tags: ^(?!meme$)" %}
 
 ### Computer scripts and packages
 
