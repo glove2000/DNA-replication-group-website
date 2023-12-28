@@ -11,6 +11,31 @@ Exploring the impact of DNA replication on genome evolution and stability.
 
 {% capture text %}
 
+Read more about our past and ongoing research.
+
+{%
+  include button.html
+  link="research"
+  text="Browse our research projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/replication-fork-polymerases.png"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
 Read about our published research.
 
 {%
@@ -30,31 +55,7 @@ Read about our published research.
   link="publications"
   title="Our publications"
   text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
 %}
 
 {% capture text %}
