@@ -13,7 +13,11 @@ Various group resources.
 
 {% include search-box.html %}
 
-{% include tags.html tags=page.tags %}
+{%
+  include tags.html
+  tags="ovarian cancer, dataset, gene expression, website, database"
+  link="resources"
+%}
 
 {% include search-info.html %}
 
