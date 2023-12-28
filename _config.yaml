@@ -35,7 +35,7 @@ defaults:
   - scope:
       type: "resources"
     values:
-      layout: post
+      layout: resource
 
 collections:
   # generate page for each member
