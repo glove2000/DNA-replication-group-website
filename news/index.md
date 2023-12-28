@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Latest news from our group - both science and social.
 
@@ -17,4 +17,4 @@ Latest news from our group - both science and social.
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" filter="tags: ^(?!meme$)" %}
+{% include list.html data="resources" component="post-excerpt" filter="tags: ^(?!meme$)" %}
