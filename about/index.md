@@ -5,6 +5,14 @@ nav:
   tooltip: Contact, funding and more
 ---
 
+# About
+
+Our group includes a mixture of experimental and computational biogists with expertise in advanced molecule biology, genome engineering, genetics, high-throughput DNA sequencing, bioinformatics and mathematical modelling. We are based within the Earlham Institute on the Norwich Research Park.
+
+# Funders
+
+We are grateful to all our funders, past and present. The group, since being established in 2008, has been continuously funded by the BBSRC. Previous work has also been funded by the Wellcome Trust.
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 The easiest way to get in touch is to e-mail Conrad:
@@ -15,48 +23,3 @@ The easiest way to get in touch is to e-mail Conrad:
   text="conrad.nieduszynski@earhlam.ac.uk"
   link="conrad.nieduszynski@earhlam.ac.uk"
 %}
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
