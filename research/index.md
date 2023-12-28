@@ -105,7 +105,7 @@ The power of genomic technologies are built upon high quality complete reference
 
 {%
   include feature.html
-  image=https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
+  image="https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg"
   title="Genome sequencing"
   text=text
   flip=true
