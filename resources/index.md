@@ -9,10 +9,6 @@ nav:
 
 Various group resources.
 
-{%
-  include tags.html
-  tags="ovarian cancer, dataset, gene expression, website, database"
-  link="resources"
-%}
+{% include tags.html tags="ovarian cancer, dataset, gene expression, website, database" %}
 
-{% include list.html data="resources" component="resource-excerpt" filter="tags: ^(?!meme$)" %}
+{% include list.html data="resources" component="resource-excerpt" %}
