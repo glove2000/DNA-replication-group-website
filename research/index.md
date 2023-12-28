@@ -109,6 +109,7 @@ The Sc2.0 project has successfully synthesised all 16 native chromosomes in *Sac
   image="images/Sc2.0_logo.png"
   title="Synthetic genomes"
   text=text
+  flip=true
 %}
 
 {% capture text %}
@@ -133,7 +134,7 @@ The power of genomic technologies are built upon high quality complete reference
   image="https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg"
   title="Genome sequencing"
   text=text
-  flip=true
+  flip=false
 %}
 
 {% capture text %}
@@ -158,4 +159,5 @@ We have developed a series of innovative genomic technolgies to determine DNA re
   image="images/mosaic_detail.png"
   title="Genomic technologies"
   text=text
+  flip=true
 %}
