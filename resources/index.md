@@ -14,7 +14,7 @@ Various group resources.
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
+{% include tags.html tags="Database, Software, Outreach" %}
 
 {% include search-info.html %}
 
