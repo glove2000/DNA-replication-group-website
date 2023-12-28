@@ -9,12 +9,11 @@ nav:
 
 Various group resources.
 
-
 {% include section.html %}
 
 {% include search-box.html %}
 
-{% include tags.html tags="Database, Software, Outreach" %}
+{% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
 
