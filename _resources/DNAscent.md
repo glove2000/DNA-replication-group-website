@@ -19,7 +19,7 @@ The DNAscent software allows the detection of base analogues, such as BrdU, in n
   description=""
   tooltip="DNAscent"
   tags="Software"
-  repo="MBoemo/DNAscent"
+  link="https://github.com/MBoemo/DNAscent"
   style="small"
 %}
 
