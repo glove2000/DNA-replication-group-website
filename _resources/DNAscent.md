@@ -11,6 +11,18 @@ The DNAscent software allows the detection of base analogues, such as BrdU, in n
 
 <!-- excerpt end -->
 
+{%
+  include card.html
+  image="images/space.jpg"
+  title="DNAscent"
+  subtitle="Detection of BrdU in nanopore data"
+  description=""
+  tooltip="DNAscent"
+  tags="Software"
+  repo="MBoemo/DNAscent"
+  style="small"
+%}
+
 If you use DNAscent, please cite our paper:
 
 {%
