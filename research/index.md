@@ -81,7 +81,7 @@ Genome replication is remarkably accurate and processive. However, some regions 
 
 {%
   include feature.html
-  image="images/mosaic_detail.png"
+  image="images/blow&newman.png"
   title="Replication fork progression"
   text=text
 %}
