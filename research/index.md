@@ -45,11 +45,11 @@ Genomes are replicated with characteristic temporal dynamics: some regions tend 
 
 {%
   include citation.html
-  lookup="doi:10.1083/jcb.201701061"
+  lookup="doi:10.3390/genes10030196"
 %}
 {%
   include citation.html
-  lookup="doi:10.1016/j.celrep.2013.10.014"
+  lookup="doi:10.1083/jcb.201701061"
 %}
 {%
   include citation.html
@@ -70,15 +70,11 @@ Genomes are replicated with characteristic temporal dynamics: some regions tend 
 
 *Difficult to replicate sequences*
 
-To update... We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
+Genome replication is remarkably accurate and processive. However, some regions of the genome are more difficult to replicate. This can result in replication fork pausing and the potential for genome instability, for example from fork collapse or incomplete genome replication.
 
 {%
   include citation.html
-  lookup="doi:10.1038/s41596-019-0287-7"
-%}
-{%
-  include citation.html
-  lookup="doi:10.1038/s41592-019-0394-y"
+  lookup="doi:10.1093/nar/gkt728"
 %}
 
 {% endcapture %}
@@ -94,22 +90,22 @@ To update... We have developed a series of innovative genomic technolgies to det
 
 *Completing genomes*
 
-We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
+The power of genomic technologies are built upon high quality complete reference genome sequences. We have contributed to a series of high quality telomere-to-telomere genome sequences.
 
 {%
   include citation.html
-  lookup="doi:10.1038/s41596-019-0287-7"
+  lookup="doi:10.1002/yea.3919"
 %}
 {%
   include citation.html
-  lookup="doi:10.1038/s41592-019-0394-y"
+  lookup="doi:10.1038/s41467-019-09824-4"
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/mosaic_detail.png"
+  image=https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556188/F6.large.jpg
   title="Genome sequencing"
   text=text
   flip=true
