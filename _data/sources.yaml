@@ -38,7 +38,7 @@
    
 - id: doi:10.1073/pnas.2004664117
   my_comment: PNAS paper with CAF, 2020
-  description: [H1 recommended](https://connect.h1.co/pubmed/32513739).
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/32513739).
   image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
   tags:
    - budding yeast
@@ -65,7 +65,7 @@
 
 - id: doi:10.1038/s41467-019-09824-4
   my_comment: fission yeast centromeres with Robin, 2019
-  description: [H1 recommended](https://connect.h1.co/pubmed/31138803).
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/31138803).
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-09824-4/MediaObjects/41467_2019_9824_Fig1_HTML.png
   tags:
   - genome assembly
