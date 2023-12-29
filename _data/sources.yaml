@@ -242,6 +242,12 @@
   tags:
     - mathematical modelling
 
+- id: doi:10.1128/MCB.00206-08
+  my_comment: ARS318 paper
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/18573888).
+  tags:
+   - budding yeast
+
 - id: doi:10.1093/nar/gkl758
   my_comment: original OriDB paper
   description: This paper presents the DNA replication origin database, OriDB, a catalogue of confirmed and predicted DNA replication origin sites. This database is an example of our commitment not only to sharing data, but also to making it highly accessible to the research community – see links on the resources page.
