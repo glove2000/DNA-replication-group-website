@@ -3,6 +3,7 @@ title: News
 nav:
   order: 4
   tooltip: Musings and miscellany
+  tags: software
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
