@@ -3,7 +3,12 @@ title: Resources
 nav:
   order: 5
   tooltip: Software, datasets, and more
-  tags: software
+  tags: 
+    - software
+    - database
+    - website
+    - outreach
+    - visualisation
 ---
 
 ## Lab resources
