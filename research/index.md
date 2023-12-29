@@ -39,7 +39,7 @@ The sites of DNA replication initiation, called replication origins, are spatial
 
 {% capture text %}
 
-*From initiation, to forks and termination*
+*From initiation, to fork direction and finally termination*
 
 Genomes are replicated with characteristic temporal dynamics: some regions tend to replicate early in S phase whereas others tend to replicate later. We have measured replication dyanamics, discovered regulatory mechanisms and determined the consequences of perturbed replication dynamics.
 
@@ -139,7 +139,7 @@ The power of genomic technologies are built upon high quality complete reference
 
 {% capture text %}
 
-*From intitiation, to forks and termination*
+*From populations to single molecules*
 
 We have developed a series of innovative genomic technolgies to determine DNA replication dynamics. Both population-level and single molecule approaches have allowed discovery of sites of replication initiation and subsequent replication dynamics.
 
