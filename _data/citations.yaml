@@ -148,6 +148,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: PNAS paper with CAF, 2020
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/32513739).
   image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
   tags:
   - budding yeast
@@ -231,6 +232,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: fission yeast centromeres with Robin, 2019
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/31138803).
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-019-09824-4/MediaObjects/41467_2019_9824_Fig1_HTML.png
   tags:
   - genome assembly
@@ -259,7 +261,8 @@
     \ origins and replication fork movement genome-wide on sequence reads of 20\u2013\
     160\u2009kilobases. Our study marks the first, whole genome characterisation of\
     \ DNA replication dynamics on single-molecules.<br>We have shared both the D-NAscent\
-    \ software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources)."
+    \ software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources).<br>[H1\
+    \ recommended](https://connect.h1.co/pubmed/31011185)."
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
   - new method
