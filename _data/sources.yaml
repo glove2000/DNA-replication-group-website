@@ -114,7 +114,7 @@
 
 - id: doi:10.1083/jcb.201701061
   my_comment: CAM histone paper, 2017
-  description: Chromosomes replicate in a characteristic and reproducible temporal order. However, it has been unknown whether there is a physiological requirement for the regulation of replication timing. In this paper, we report our discovery that early DNA replication is required for the highest expression levels of certain genes.  Highlighted in J. Cell Biol. by María Gómez, selected for the Nuclear biology special collection by Ana Pombo and selected for the DNA replication and genome instability special collection by Agata Smogorzewska.  Selected as “of outstanding interest” by Mirit Aladjem and colleagues in their Current Opinion in Cell Biology review.
+  description: Chromosomes replicate in a characteristic and reproducible temporal order. However, it has been unknown whether there is a physiological requirement for the regulation of replication timing. In this paper, we report our discovery that early DNA replication is required for the highest expression levels of certain genes.  [Highlighted](http://jcb.rupress.org/content/216/7/1869) in J. Cell Biol. by María Gómez, selected for the [Nuclear biology special collection](http://jcb.rupress.org/cc/nuclear-organization-and-function) by Ana Pombo and selected for the [DNA replication and genome instability special collection](http://jcb.rupress.org/cc/dna-replication-and-genome-instability?vsmaid=3951&vcid=20955) by Agata Smogorzewska.  Selected as “of outstanding interest” by Mirit Aladjem and colleagues in their [Current Opinion in Cell Biology review](http://sciencedirect.com/science/article/pii/S0955067417300522).
   tags:
   - budding yeast
   - comparative genomics
