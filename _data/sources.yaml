@@ -213,6 +213,7 @@
 
 - id: doi:10.1101/gr.139477.112
   my_comment: CAM sensu stricto, 2012
+  description: We found that the temporal order of genome replication is conserved between species. The discovery of a minority of DNA replication origins that have evolved different activities allowed us to demonstrate that origin activity is locally (cis) regulated.
   image: images/Müller_Fig_3_panel.png
   tags:
    - comparative genomics
