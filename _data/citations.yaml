@@ -172,7 +172,7 @@
     replication dynamics using high-throughput DNA sequencing to measure DNA copy-number.
     Cell populations can be obtained in three variants of the method sort-seq, sync-seq
     and MFA-seq. We have shared our computational pipeline and example sequence data
-    - see the [resources](resources) page.
+    - see the [resources page](/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png
   tags:
   - new method
@@ -259,7 +259,7 @@
     \ origins and replication fork movement genome-wide on sequence reads of 20\u2013\
     160\u2009kilobases. Our study marks the first, whole genome characterisation of\
     \ DNA replication dynamics on single-molecules. We have shared both the D-NAscent\
-    \ software and underlying sequence data - see the [resources page](resources)."
+    \ software and underlying sequence data - see the [resources page](/resources)."
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
   - new method
@@ -279,6 +279,11 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: cohesion paper, 2019
+  description: In this study we address the long-standing question - do topologically
+    associating domains (TADs) act as a causative organizing structure for replication
+    timing domains? Using rapid and complete cohesin degradation we observe no perturbations
+    to replication timing. Our results suggest that cohesin-mediated genome architecture
+    is not required for replication timing patterns.
   image: https://www.mdpi.com/genes/genes-10-00196/article_deploy/html/images/genes-10-00196-g003.png
   tags:
   - cultured mammalian cells
@@ -296,6 +301,14 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: ddPCR method paper, 2018
+  description: "In this paper we describe the use of digital PCR to precisely and\
+    \ rapidly measure DNA copy number as a proxy for replication time. As a proof-of-principle\
+    \ we demonstrate the method\u2019s utility for the study of DNA replication time\
+    \ in both yeast and human cells. We show the power of the method by undertaking\
+    \ a targeted screen of kinetochore mutants to discover those that affect centromere\
+    \ replication time.  As part of this work we generated whole genome DNA replication\
+    \ timing data (sort-seq) for cultured human cells (HeLa). These data can be visualised\
+    \ via the link to our UCSC genome browser hub on the resources page."
   image: images/ddPCR.png
   tags:
   - new method
