@@ -384,6 +384,15 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: CAM histone paper, 2017
+  description: "Chromosomes replicate in a characteristic and reproducible temporal\
+    \ order. However, it has been unknown whether there is a physiological requirement\
+    \ for the regulation of replication timing. In this paper, we report our discovery\
+    \ that early DNA replication is required for the highest expression levels of\
+    \ certain genes.  Highlighted in J. Cell Biol. by Mar\xEDa G\xF3mez, selected\
+    \ for the Nuclear biology special collection by Ana Pombo and selected for the\
+    \ DNA replication and genome instability special collection by Agata Smogorzewska.\
+    \  Selected as \u201Cof outstanding interest\u201D by Mirit Aladjem and colleagues\
+    \ in their Current Opinion in Cell Biology review."
   tags:
   - budding yeast
   - comparative genomics
