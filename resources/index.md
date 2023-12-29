@@ -19,8 +19,6 @@ Various group resources (more coming).
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
-
 {% include search-info.html %}
 
-{% include list.html data="posts" component="resource-excerpt" filter="tags: Science" %}
+{% include list.html data="resources" component="resource-excerpt" %}
