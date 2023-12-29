@@ -135,6 +135,7 @@
 
 - id: doi:10.1016/j.cub.2015.06.023
   my_comment: CEN with Tomo & Ken, 2015
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/26166782).
   tags:
   - comparative genomics
   - budding yeast
