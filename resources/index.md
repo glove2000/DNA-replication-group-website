@@ -23,4 +23,4 @@ Various group resources (more coming).
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" filter="tags: resource" %}
+{% include list.html data="posts" component="resource-excerpt" filter="tags: Science" %}
