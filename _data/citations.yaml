@@ -982,8 +982,14 @@
   date: '2006-11-07'
   link: https://doi.org/bgc2rn
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: original OriDB paper
+  description: "This paper presents the DNA replication origin database, OriDB, a\
+    \ catalogue of confirmed and predicted DNA replication origin sites. This database\
+    \ is an example of our commitment not only to sharing data, but also to making\
+    \ it highly accessible to the research community \u2013 see links on the resources\
+    \ page."
 - id: doi:10.1101/gad.385306
   title: Genome-wide identification of replication origins in yeast by comparative
     genomics
@@ -998,6 +1004,10 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: G&D comparative genomics, 2006
+  description: This was the first paper to use comparative genomics to investigate
+    DNA replication. We discovered that the functional sequence elements at DNA replication
+    origins are evolutionarily conserved, leaving a phylogenetic footprint that allowed
+    them to be pin- pointed genome-wide.<br>This work is recommended in F1000.
   image: images/ori_conservation.png
   tags:
   - comparative genomics
