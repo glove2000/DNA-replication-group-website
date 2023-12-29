@@ -387,6 +387,7 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: CAM histone paper, 2017
+  image: images/Histone_replication_graphical_abstract.png
   description: "Chromosomes replicate in a characteristic and reproducible temporal\
     \ order. However, it has been unknown whether there is a physiological requirement\
     \ for the regulation of replication timing. In this paper, we report our discovery\
