@@ -537,6 +537,10 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: NAR HTS methods paper, 2013
+  description: This paper describes and rigorously validates a range of next generation
+    sequencing approaches to reveal at unprecedented resolution the temporal order
+    of genome replication. My research group and others are applying these sequencing
+    approaches to a range of questions in a variety of organisms.
   image: images/24089142.jpg
   tags:
   - new method
