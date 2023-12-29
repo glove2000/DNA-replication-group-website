@@ -223,6 +223,10 @@
    - comparative genomics
    - budding yeast
 
+- id: doi:10.1093/nar/gkr1091
+  my_comment: OriDB update paper, 2011
+  image: images/oridb_logo.png
+
 - id: doi:10.1126/science.1203357
   my_comment: fission yeast compariative genomics, 2011
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/21511999).
@@ -250,6 +254,7 @@
 
 - id: doi:10.1093/nar/gkl758
   my_comment: original OriDB paper
+  image: images/oridb_logo.png
   description: This paper presents the DNA replication origin database, OriDB, a catalogue of confirmed and predicted DNA replication origin sites. This database is an example of our commitment not only to sharing data, but also to making it highly accessible to the research community – see links on the resources page.
 
 - id: doi:10.1101/gad.385306
