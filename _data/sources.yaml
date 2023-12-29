@@ -38,6 +38,7 @@
    
 - id: doi:10.1073/pnas.2004664117
   my_comment: PNAS paper with CAF, 2020
+  description: [H1 recommended](https://connect.h1.co/pubmed/32513739).
   image: https://www.pnas.org/cms/10.1073/pnas.2004664117/asset/fdb82a8b-cb06-4c3a-a9aa-d0395f97257f/assets/graphic/pnas.2004664117fig01.jpeg
   tags:
    - budding yeast
