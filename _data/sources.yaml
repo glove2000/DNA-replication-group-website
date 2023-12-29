@@ -219,7 +219,11 @@
    - comparative genomics
    - budding yeast
 
-
+- id: doi:10.1093/nar/gkq343
+  my_comment: NAR modelling paper
+  description: We present a mathematical model for whole chromosome replication, conceptualising how key molecular properties of DNA replication are related and demonstrating the wealth of information available in quantitative genomic datasets.<br>This work is recommended in F1000.
+  tags:
+    - mathematical modelling
 
 - id: doi:10.1101/gad.385306
   my_comment: G&D comparative genomics, 2006
