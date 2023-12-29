@@ -680,6 +680,11 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: Mol Cell, 2013, CEN replication timing paper
+  description: We discovered that kinetochore recruitment of the Dbf4-dependent kinase
+    ensures early centromere replication. Mutations that delay centromere replication
+    give rise to elevated chromosome loss, revealing the first physiological role
+    for temporal regulation of genome replication.<br>This work is recommended in
+    [F1000](https://connect.h1.co/pubmed/23746350).
   image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
   tags:
   - budding yeast
@@ -763,6 +768,10 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: CAM sensu stricto, 2012
+  description: We found that the temporal order of genome replication is conserved
+    between species. The discovery of a minority of DNA replication origins that have
+    evolved different activities allowed us to demonstrate that origin activity is
+    locally (cis) regulated.
   image: "images/M\xFCller_Fig_3_panel.png"
   tags:
   - comparative genomics
