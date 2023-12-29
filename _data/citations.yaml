@@ -876,8 +876,13 @@
   date: '2011-05-20'
   link: https://doi.org/d3nbzz
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: fission yeast compariative genomics, 2011
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/21511999).
+  tags:
+  - comparative genomics
+  - fission yeast
 - id: doi:10.1103/PhysRevLett.107.068103
   title: Dynamics of DNA Replication in Yeast
   authors:
@@ -890,7 +895,7 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: PRL paper with AM
+  my_comment: PRL paper with AM, 2011
   description: This work is [H1 recommended](https://connect.h1.co/pubmed/21902372).
   tags:
   - mathematical modelling
@@ -918,11 +923,11 @@
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
-  my_comment: NAR modelling paper
+  my_comment: NAR modelling paper, 2010
   description: We present a mathematical model for whole chromosome replication, conceptualising
     how key molecular properties of DNA replication are related and demonstrating
     the wealth of information available in quantitative genomic datasets.<br>This
-    work is recommended in F1000.
+    work is [H1 recommended](https://connect.h1.co/pubmed/20457753).
   tags:
   - mathematical modelling
 - id: doi:10.1007/978-1-60327-815-7_16
