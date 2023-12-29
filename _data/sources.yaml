@@ -139,6 +139,7 @@
 
 - id: doi:10.1038/nsmb.2962
   my_comment: Pu-seq paper with Tony, 2015
+  description: This collaborative study reveals that polymerase epsilon is responsible for leading strand synthesis, with polymerase delta undertaking lagging strand synthesis. Our polymerase usage data directly maps replication origin location, quantifies origin efficiency, reveals that replication termination events are dispersed across large termination zones and indirectly estimates replication timing. <br>With associated [News & Views](https://www.nature.com/articles/nsmb.2981) by Sue Jinks-Robertson & Hannah L Klein.
   image: images/replication-fork-polymerases.png
   tags:
   - fission yeast
