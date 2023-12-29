@@ -248,7 +248,7 @@
 
 - id: doi:10.1101/gad.385306
   my_comment: G&D comparative genomics, 2006
-  description: This was the first paper to use comparative genomics to investigate DNA replication. We discovered that the functional sequence elements at DNA replication origins are evolutionarily conserved, leaving a phylogenetic footprint that allowed them to be pin- pointed genome-wide.<br>This work is recommended in F1000.
+  description: This was the first paper to use comparative genomics to investigate DNA replication. We discovered that the functional sequence elements at DNA replication origins are evolutionarily conserved, leaving a phylogenetic footprint that allowed them to be pin- pointed genome-wide.<br>This work is [H1 recommended](https://connect.h1.co/pubmed/16847347).
   image: images/ori_conservation.png
   tags:
    - comparative genomics
