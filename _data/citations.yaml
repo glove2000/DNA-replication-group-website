@@ -888,8 +888,12 @@
   date: '2011-08-04'
   link: https://doi.org/cjq9nh
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: PRL paper with AM
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/21902372).
+  tags:
+  - mathematical modelling
 - id: doi:10.1016/j.bbagen.2011.02.004
   title: 'From sequence to function: Insights from natural variation in budding yeasts'
   authors:
