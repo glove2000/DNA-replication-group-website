@@ -982,8 +982,12 @@
   date: '2008-08-01'
   link: https://doi.org/dm5wkt
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: ARS318 paper
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/18573888).
+  tags:
+  - budding yeast
 - id: doi:10.1093/nar/gkl758
   title: 'OriDB: a DNA replication origin database'
   authors:
