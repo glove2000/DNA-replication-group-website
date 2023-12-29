@@ -172,7 +172,7 @@
     replication dynamics using high-throughput DNA sequencing to measure DNA copy-number.
     Cell populations can be obtained in three variants of the method sort-seq, sync-seq
     and MFA-seq. We have shared our computational pipeline and example sequence data
-    - see the [resources page](/resources).
+    - see the [resources page](/DNA-replication-group-website/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png
   tags:
   - new method
@@ -259,7 +259,7 @@
     \ origins and replication fork movement genome-wide on sequence reads of 20\u2013\
     160\u2009kilobases. Our study marks the first, whole genome characterisation of\
     \ DNA replication dynamics on single-molecules. We have shared both the D-NAscent\
-    \ software and underlying sequence data - see the [resources page](/resources)."
+    \ software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources)."
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
   - new method
