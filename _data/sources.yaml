@@ -50,7 +50,7 @@
 
 - id: doi:10.1038/s41596-019-0287-7
   my_comment: protocol paper, 2020
-  description: During S phase, the relative DNA copy number increases for each region as it is replicated. Therefore, measuring DNA copy number can be used as a proxy for replication time. Here we present a step-by-step protocol to determine genome replication dynamics using high-throughput DNA sequencing to measure DNA copy-number. Cell populations can be obtained in three variants of the method sort-seq, sync-seq and MFA-seq. We have shared our computational pipeline and example sequence data - see the [resources](resources) page.
+  description: During S phase, the relative DNA copy number increases for each region as it is replicated. Therefore, measuring DNA copy number can be used as a proxy for replication time. Here we present a step-by-step protocol to determine genome replication dynamics using high-throughput DNA sequencing to measure DNA copy-number. Cell populations can be obtained in three variants of the method sort-seq, sync-seq and MFA-seq. We have shared our computational pipeline and example sequence data - see the [resources page](/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png
   tags:
    - new method
@@ -71,7 +71,7 @@
 
 - id: doi:10.1038/s41592-019-0394-y
   my_comment: Nat Methods DNAscent paper, 2019
-  description: DNA replication initiation is stochastic and obscured in population datasets. In this paper we introduce D-NAscent, a method to detect base analogs in ultra-long nanopore sequencing reads. This allowed us to identify replication origins and replication fork movement genome-wide on sequence reads of 20–160 kilobases. Our study marks the first, whole genome characterisation of DNA replication dynamics on single-molecules. We have shared both the D-NAscent software and underlying sequence data - see the [resources page](resources).
+  description: DNA replication initiation is stochastic and obscured in population datasets. In this paper we introduce D-NAscent, a method to detect base analogs in ultra-long nanopore sequencing reads. This allowed us to identify replication origins and replication fork movement genome-wide on sequence reads of 20–160 kilobases. Our study marks the first, whole genome characterisation of DNA replication dynamics on single-molecules. We have shared both the D-NAscent software and underlying sequence data - see the [resources page](/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
    - new method
@@ -81,12 +81,14 @@
 
 - id: doi:10.3390/genes10030196
   my_comment: cohesion paper, 2019
+  description: In this study we address the long-standing question - do topologically associating domains (TADs) act as a causative organizing structure for replication timing domains? Using rapid and complete cohesin degradation we observe no perturbations to replication timing. Our results suggest that cohesin-mediated genome architecture is not required for replication timing patterns.
   image: https://www.mdpi.com/genes/genes-10-00196/article_deploy/html/images/genes-10-00196-g003.png
   tags:
   - cultured mammalian cells
 
 - id: doi:10.1093/nar/gky590
   my_comment: ddPCR method paper, 2018
+  description: In this paper we describe the use of digital PCR to precisely and rapidly measure DNA copy number as a proxy for replication time. As a proof-of-principle we demonstrate the method’s utility for the study of DNA replication time in both yeast and human cells. We show the power of the method by undertaking a targeted screen of kinetochore mutants to discover those that affect centromere replication time.  As part of this work we generated whole genome DNA replication timing data (sort-seq) for cultured human cells (HeLa). These data can be visualised via the link to our UCSC genome browser hub on the resources page.
   image: images/ddPCR.png
   tags:
   - new method
