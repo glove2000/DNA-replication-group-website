@@ -258,7 +258,7 @@
     \ in ultra-long nanopore sequencing reads. This allowed us to identify replication\
     \ origins and replication fork movement genome-wide on sequence reads of 20\u2013\
     160\u2009kilobases. Our study marks the first, whole genome characterisation of\
-    \ DNA replication dynamics on single-molecules. We have shared both the D-NAscent\
+    \ DNA replication dynamics on single-molecules.<br>We have shared both the D-NAscent\
     \ software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources)."
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
@@ -307,8 +307,8 @@
     \ in both yeast and human cells. We show the power of the method by undertaking\
     \ a targeted screen of kinetochore mutants to discover those that affect centromere\
     \ replication time.  As part of this work we generated whole genome DNA replication\
-    \ timing data (sort-seq) for cultured human cells (HeLa). These data can be visualised\
-    \ via the link to our UCSC genome browser hub on the resources page."
+    \ timing data (sort-seq) for cultured human cells (HeLa).<br>These data can be\
+    \ visualised via the link to our UCSC genome browser hub on the [resources page](/DNA-replication-group-website/resources)."
   image: images/ddPCR.png
   tags:
   - new method
@@ -388,13 +388,13 @@
     \ order. However, it has been unknown whether there is a physiological requirement\
     \ for the regulation of replication timing. In this paper, we report our discovery\
     \ that early DNA replication is required for the highest expression levels of\
-    \ certain genes.  [Highlighted](http://jcb.rupress.org/content/216/7/1869) in\
+    \ certain genes.<br>[Highlighted](http://jcb.rupress.org/content/216/7/1869) in\
     \ J. Cell Biol. by Mar\xEDa G\xF3mez, selected for the [Nuclear biology special\
     \ collection](http://jcb.rupress.org/cc/nuclear-organization-and-function) by\
     \ Ana Pombo and selected for the [DNA replication and genome instability special\
     \ collection](http://jcb.rupress.org/cc/dna-replication-and-genome-instability?vsmaid=3951&vcid=20955)\
-    \ by Agata Smogorzewska.  Selected as \u201Cof outstanding interest\u201D by Mirit\
-    \ Aladjem and colleagues in their [Current Opinion in Cell Biology review](http://sciencedirect.com/science/article/pii/S0955067417300522)."
+    \ by Agata Smogorzewska.<br>Selected as \u201Cof outstanding interest\u201D by\
+    \ Mirit Aladjem and colleagues in their [Current Opinion in Cell Biology review](http://sciencedirect.com/science/article/pii/S0955067417300522)."
   tags:
   - budding yeast
   - comparative genomics
@@ -489,7 +489,7 @@
     synthesis. Our polymerase usage data directly maps replication origin location,
     quantifies origin efficiency, reveals that replication termination events are
     dispersed across large termination zones and indirectly estimates replication
-    timing. <br>With associated [News & Views](https://www.nature.com/articles/nsmb.2981)
+    timing.<br>With associated [News & Views](https://www.nature.com/articles/nsmb.2981)
     by Sue Jinks-Robertson & Hannah L Klein.
   image: images/replication-fork-polymerases.png
   tags:
