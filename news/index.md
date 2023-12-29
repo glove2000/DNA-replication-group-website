@@ -17,4 +17,4 @@ Latest news from our group - both science and social.
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" filter="tags: ^(?!meme$)" %}
+{% include list.html data="posts" component="post-excerpt" filter="tags: ^(?!meme$) | ^(?!resource$)" %}
