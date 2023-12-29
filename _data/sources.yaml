@@ -222,6 +222,12 @@
    - comparative genomics
    - budding yeast
 
+- id: doi:10.1103/PhysRevLett.107.068103
+  my_comment: PRL paper with AM
+  description: This work is [H1 recommended](https://connect.h1.co/pubmed/21902372).
+  tags:
+  - mathematical modelling
+
 - id: doi:10.1093/nar/gkq343
   my_comment: NAR modelling paper
   description: We present a mathematical model for whole chromosome replication, conceptualising how key molecular properties of DNA replication are related and demonstrating the wealth of information available in quantitative genomic datasets.<br>This work is recommended in F1000.
