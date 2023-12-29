@@ -50,7 +50,7 @@
 
 - id: doi:10.1038/s41596-019-0287-7
   my_comment: protocol paper, 2020
-  description: During S phase, the relative DNA copy number increases for each region as it is replicated. Therefore, measuring DNA copy number can be used as a proxy for replication time. Here we present a step-by-step protocol to determine genome replication dynamics using high-throughput DNA sequencing to measure DNA copy-number. Cell populations can be obtained in three variants of the method sort-seq, sync-seq and MFA-seq. We have shared our computational pipeline and example sequence data - see the [resources page](/resources).
+  description: During S phase, the relative DNA copy number increases for each region as it is replicated. Therefore, measuring DNA copy number can be used as a proxy for replication time. Here we present a step-by-step protocol to determine genome replication dynamics using high-throughput DNA sequencing to measure DNA copy-number. Cell populations can be obtained in three variants of the method sort-seq, sync-seq and MFA-seq. We have shared our computational pipeline and example sequence data - see the [resources page](/DNA-replication-group-website/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png
   tags:
    - new method
@@ -71,7 +71,7 @@
 
 - id: doi:10.1038/s41592-019-0394-y
   my_comment: Nat Methods DNAscent paper, 2019
-  description: DNA replication initiation is stochastic and obscured in population datasets. In this paper we introduce D-NAscent, a method to detect base analogs in ultra-long nanopore sequencing reads. This allowed us to identify replication origins and replication fork movement genome-wide on sequence reads of 20–160 kilobases. Our study marks the first, whole genome characterisation of DNA replication dynamics on single-molecules. We have shared both the D-NAscent software and underlying sequence data - see the [resources page](/resources).
+  description: DNA replication initiation is stochastic and obscured in population datasets. In this paper we introduce D-NAscent, a method to detect base analogs in ultra-long nanopore sequencing reads. This allowed us to identify replication origins and replication fork movement genome-wide on sequence reads of 20–160 kilobases. Our study marks the first, whole genome characterisation of DNA replication dynamics on single-molecules. We have shared both the D-NAscent software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
    - new method
