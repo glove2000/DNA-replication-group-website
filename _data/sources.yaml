@@ -170,6 +170,7 @@
 
 - id: doi:10.1016/j.molcel.2013.05.011
   my_comment: Mol Cell, 2013, CEN replication timing paper
+  description: We discovered that kinetochore recruitment of the Dbf4-dependent kinase ensures early centromere replication. Mutations that delay centromere replication give rise to elevated chromosome loss, revealing the first physiological role for temporal regulation of genome replication.<br>This work is recommended in [F1000](https://connect.h1.co/pubmed/23746350).
   image: https://www.cell.com/cms/attachment/142c9086-4235-4f40-9132-2b468b17f63f/fx1_lrg.jpg
   tags:
    - budding yeast
