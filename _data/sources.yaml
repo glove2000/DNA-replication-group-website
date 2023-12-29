@@ -181,7 +181,7 @@
 
 - id: doi:10.1038/nature12650
   my_comment: H. volcanii nature paper, 2013
-  description: We discovered that the halophilic archaea, Haloferax volcanii, not only can survive in the absence of DNA replication origins, but also has accelerated growth.<br>This work is [H1 recommended](https://connect.h1.co/24185008) and featured in a [research highlight](https://www.nature.com/articles/nrmicro3177) in Nature Reviews Microbiology.<br>See associated article at [The Conversation](https://theconversation.com/selfish-gene-solves-dna-replication-puzzle-20166).
+  description: We discovered that the halophilic archaea, Haloferax volcanii, not only can survive in the absence of DNA replication origins, but also has accelerated growth.<br>This work is [H1 recommended](https://connect.h1.co/pubmed/24185008) and featured in a [research highlight](https://www.nature.com/articles/nrmicro3177) in Nature Reviews Microbiology.<br>See associated article at [The Conversation](https://theconversation.com/selfish-gene-solves-dna-replication-puzzle-20166).
   image: images/Hv_replication.png
   tags:
    - archaea
