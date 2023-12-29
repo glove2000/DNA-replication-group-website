@@ -261,8 +261,8 @@
     \ origins and replication fork movement genome-wide on sequence reads of 20\u2013\
     160\u2009kilobases. Our study marks the first, whole genome characterisation of\
     \ DNA replication dynamics on single-molecules.<br>We have shared both the D-NAscent\
-    \ software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources).<br>[H1\
-    \ recommended](https://connect.h1.co/pubmed/31011185)."
+    \ software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources).<br>This\
+    \ work is [H1 recommended](https://connect.h1.co/pubmed/31011185)."
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
   - new method
@@ -585,7 +585,8 @@
   my_comment: H. volcanii nature paper, 2013
   description: We discovered that the halophilic archaea, Haloferax volcanii, not
     only can survive in the absence of DNA replication origins, but also has accelerated
-    growth.<br>This work is recommended in F1000 and featured in a [research highlight](https://www.nature.com/articles/nrmicro3177)
+    growth.<br>This work is This work is [H1 recommended](https://connect.h1.co/24185008)
+    and featured in a [research highlight](https://www.nature.com/articles/nrmicro3177)
     in Nature Reviews Microbiology.<br>See associated article at [The Conversation](https://theconversation.com/selfish-gene-solves-dna-replication-puzzle-20166).
   image: images/Hv_replication.png
   tags:
