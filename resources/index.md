@@ -19,8 +19,8 @@ Various group resources (more coming).
 
 {% include search-box.html %}
 
-{% include tags.html tags=page.tags %}
+{% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
 
-{% include list.html data="resources" component="resource-excerpt" %}
+{% include list.html data="posts" component="post-excerpt" filter="tags: resource" %}
