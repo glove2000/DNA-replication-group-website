@@ -71,7 +71,7 @@
 
 - id: doi:10.1038/s41592-019-0394-y
   my_comment: Nat Methods DNAscent paper, 2019
-  description: DNA replication initiation is stochastic and obscured in population datasets. In this paper we introduce D-NAscent, a method to detect base analogs in ultra-long nanopore sequencing reads. This allowed us to identify replication origins and replication fork movement genome-wide on sequence reads of 20–160 kilobases. Our study marks the first, whole genome characterisation of DNA replication dynamics on single-molecules. We have shared both the D-NAscent software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources).
+  description: DNA replication initiation is stochastic and obscured in population datasets. In this paper we introduce D-NAscent, a method to detect base analogs in ultra-long nanopore sequencing reads. This allowed us to identify replication origins and replication fork movement genome-wide on sequence reads of 20–160 kilobases. Our study marks the first, whole genome characterisation of DNA replication dynamics on single-molecules.<br>We have shared both the D-NAscent software and underlying sequence data - see the [resources page](/DNA-replication-group-website/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0394-y/MediaObjects/41592_2019_394_Fig1_HTML.png
   tags:
    - new method
@@ -88,7 +88,7 @@
 
 - id: doi:10.1093/nar/gky590
   my_comment: ddPCR method paper, 2018
-  description: In this paper we describe the use of digital PCR to precisely and rapidly measure DNA copy number as a proxy for replication time. As a proof-of-principle we demonstrate the method’s utility for the study of DNA replication time in both yeast and human cells. We show the power of the method by undertaking a targeted screen of kinetochore mutants to discover those that affect centromere replication time.  As part of this work we generated whole genome DNA replication timing data (sort-seq) for cultured human cells (HeLa). These data can be visualised via the link to our UCSC genome browser hub on the resources page.
+  description: In this paper we describe the use of digital PCR to precisely and rapidly measure DNA copy number as a proxy for replication time. As a proof-of-principle we demonstrate the method’s utility for the study of DNA replication time in both yeast and human cells. We show the power of the method by undertaking a targeted screen of kinetochore mutants to discover those that affect centromere replication time.  As part of this work we generated whole genome DNA replication timing data (sort-seq) for cultured human cells (HeLa).<br>These data can be visualised via the link to our UCSC genome browser hub on the [resources page](/DNA-replication-group-website/resources).
   image: images/ddPCR.png
   tags:
   - new method
@@ -114,7 +114,7 @@
 
 - id: doi:10.1083/jcb.201701061
   my_comment: CAM histone paper, 2017
-  description: Chromosomes replicate in a characteristic and reproducible temporal order. However, it has been unknown whether there is a physiological requirement for the regulation of replication timing. In this paper, we report our discovery that early DNA replication is required for the highest expression levels of certain genes.  [Highlighted](http://jcb.rupress.org/content/216/7/1869) in J. Cell Biol. by María Gómez, selected for the [Nuclear biology special collection](http://jcb.rupress.org/cc/nuclear-organization-and-function) by Ana Pombo and selected for the [DNA replication and genome instability special collection](http://jcb.rupress.org/cc/dna-replication-and-genome-instability?vsmaid=3951&vcid=20955) by Agata Smogorzewska.  Selected as “of outstanding interest” by Mirit Aladjem and colleagues in their [Current Opinion in Cell Biology review](http://sciencedirect.com/science/article/pii/S0955067417300522).
+  description: Chromosomes replicate in a characteristic and reproducible temporal order. However, it has been unknown whether there is a physiological requirement for the regulation of replication timing. In this paper, we report our discovery that early DNA replication is required for the highest expression levels of certain genes.<br>[Highlighted](http://jcb.rupress.org/content/216/7/1869) in J. Cell Biol. by María Gómez, selected for the [Nuclear biology special collection](http://jcb.rupress.org/cc/nuclear-organization-and-function) by Ana Pombo and selected for the [DNA replication and genome instability special collection](http://jcb.rupress.org/cc/dna-replication-and-genome-instability?vsmaid=3951&vcid=20955) by Agata Smogorzewska.<br>Selected as “of outstanding interest” by Mirit Aladjem and colleagues in their [Current Opinion in Cell Biology review](http://sciencedirect.com/science/article/pii/S0955067417300522).
   tags:
   - budding yeast
   - comparative genomics
@@ -139,7 +139,7 @@
 
 - id: doi:10.1038/nsmb.2962
   my_comment: Pu-seq paper with Tony, 2015
-  description: This collaborative study reveals that polymerase epsilon is responsible for leading strand synthesis, with polymerase delta undertaking lagging strand synthesis. Our polymerase usage data directly maps replication origin location, quantifies origin efficiency, reveals that replication termination events are dispersed across large termination zones and indirectly estimates replication timing. <br>With associated [News & Views](https://www.nature.com/articles/nsmb.2981) by Sue Jinks-Robertson & Hannah L Klein.
+  description: This collaborative study reveals that polymerase epsilon is responsible for leading strand synthesis, with polymerase delta undertaking lagging strand synthesis. Our polymerase usage data directly maps replication origin location, quantifies origin efficiency, reveals that replication termination events are dispersed across large termination zones and indirectly estimates replication timing.<br>With associated [News & Views](https://www.nature.com/articles/nsmb.2981) by Sue Jinks-Robertson & Hannah L Klein.
   image: images/replication-fork-polymerases.png
   tags:
   - fission yeast
