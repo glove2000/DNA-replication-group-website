@@ -171,8 +171,8 @@
     for replication time. Here we present a step-by-step protocol to determine genome
     replication dynamics using high-throughput DNA sequencing to measure DNA copy-number.
     Cell populations can be obtained in three variants of the method sort-seq, sync-seq
-    and MFA-seq. We have shared our computational pipeline and example sequence data
-    - see the [resources page](/DNA-replication-group-website/resources).
+    and MFA-seq.<br>We have shared our computational pipeline and example sequence
+    data - see the [resources page](/DNA-replication-group-website/resources).
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41596-019-0287-7/MediaObjects/41596_2019_287_Fig1_HTML.png
   tags:
   - new method
