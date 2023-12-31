@@ -27,7 +27,7 @@ Read more about our past and ongoing research.
 {%
   include feature.html
   image="images/replication-fork-polymerases.png"
-  link="projects"
+  link="research"
   title="Our Projects"
   flip=false
   style="bare"
