@@ -7,7 +7,7 @@ tags:
 ---
 <!-- excerpt start -->
 
-DNAscent tools includes a set of scripts to process files produced by DNAscent, including coverting output to modBAM format.
+DNAscent tools includes a set of scripts to process files produced by DNAscent, including converting output to modBAM format.
 
 <!-- excerpt end -->
 
