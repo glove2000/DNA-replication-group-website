@@ -7,14 +7,14 @@ tags:
 ---
 <!-- excerpt start -->
 
-UCSC
+We have curated custom tracks for visualisation of our data at the UCSC genome browser.
 
 <!-- excerpt end -->
 
 {%
   include card.html
   image="images/time_course.png"
-  title="UCSC browser *S. cerevisiae*"
+  title=UCSC browser *S. cerevisiae*
   subtitle="Link to genome browser for data visualisation"
   description=""
   tooltip="Genome browser"
@@ -23,10 +23,16 @@ UCSC
   style="small"
 %}
 
-If you use the underlying data, please cite our paper:
-
 {%
-  include citation.html
-  lookup="doi:10.1016/j.celrep.2013.10.014"
-  style="rich"
+  include card.html
+  image="images/time_course.png"
+  title=UCSC browser *S. pombe*
+  subtitle="Link to genome browser for data visualisation"
+  description=""
+  tooltip="Genome browser"
+  tags="Visualisation"
+  link="http://vader.wistar.upenn.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&amp;hgS_loadUrlName=http://users.ox.ac.uk/~path0915/UCSChub/spombe_start"
+  style="small"
 %}
+
+If you use the underlying data, please cite the relevant original paper.
