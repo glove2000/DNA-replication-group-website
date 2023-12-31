@@ -19,6 +19,6 @@ Our published genome-wide data can be downloaded from NCBI GEO
   description=""
   tooltip="NCBI GEO"
   tags="Data"
-  link="http://www.ncbi.nlm.nih.gov/gds/?term=nieduszynski+CA%5Bau%5D\"
+  link="https://www.ncbi.nlm.nih.gov/gds/?term=nieduszynski+CA%5Bau%5D"
   style="small"
 %}
