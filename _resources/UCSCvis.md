@@ -9,6 +9,8 @@ tags:
 
 We have curated custom tracks for visualisation of our data at the UCSC genome browser.
 
+We aim to increase the number of datasets available via these links, please contact us if there is a particular dataset that you are interested in.
+
 <!-- excerpt end -->
 
 {%
