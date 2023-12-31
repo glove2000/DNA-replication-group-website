@@ -15,6 +15,7 @@ Scripts associated with using digital PCR to precisely and rapidly measure DNA c
   include card.html
   image="images/ddPCR.png"
   title="digital PCR scripts"
+  subtitle="Link to GitHub repo"
   description=""
   tooltip="Scripts"
   tags="Software"
