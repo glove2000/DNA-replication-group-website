@@ -22,4 +22,4 @@ Previous group members:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$), group: alum" %}
+{% include list.html data="members" component="portrait" style="small" filters="role: ^(?!pi$), group: alum" %}
