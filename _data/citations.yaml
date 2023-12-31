@@ -20,6 +20,7 @@
   tags:
   - genome assembly
   - fission yeast
+  - nanopore
 - id: doi:10.1016/j.cell.2023.10.015
   title: Design, construction, and functional characterization of a tRNA neochromosome
     in yeast
@@ -237,6 +238,7 @@
   tags:
   - genome assembly
   - fission yeast
+  - nanopore
 - id: doi:10.1038/s41592-019-0394-y
   title: Capturing the dynamics of genome replication on individual ultra-long nanopore
     sequence reads
@@ -1151,5 +1153,6 @@
   tags:
   - genome assembly
   - fission yeast
+  - nanopore
   plugin: sources.py
   file: sources.yaml
