@@ -1,6 +1,5 @@
 ---
 name: Phoebe Oldach
-image: images/Heather-Jeffery.png
 role: phd
 group: alum
 aliases:
