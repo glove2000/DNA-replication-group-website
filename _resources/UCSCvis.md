@@ -3,7 +3,7 @@ title: UCSC browser links for data visualisation
 author: conrad
 last_modified_at: ""
 tags:
-  - software
+  - visulisation
 ---
 <!-- excerpt start -->
 
