@@ -3,7 +3,7 @@ title: NCBI GEO data
 author: conrad
 last_modified_at: ""
 tags:
-  - visulisation
+  - data
 ---
 <!-- excerpt start -->
 
