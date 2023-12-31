@@ -5,6 +5,7 @@
   tags:
    - genome assembly
    - fission yeast
+   - nanopore
 
 - id: doi:10.1002/yea.3919
   my_comment: Schizosaccharomyces versatilis, 2023
@@ -12,6 +13,7 @@
   tags:
    - genome assembly
    - fission yeast
+   - nanopore
 
 - id: doi:10.1016/j.cell.2023.10.015
   my_comment: Cell, 2023, neoChr paper
@@ -70,6 +72,7 @@
   tags:
   - genome assembly
   - fission yeast
+  - nanopore
 
 - id: doi:10.1038/s41592-019-0394-y
   my_comment: Nat Methods DNAscent paper, 2019
