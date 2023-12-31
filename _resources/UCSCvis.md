@@ -16,7 +16,7 @@ We aim to increase the number of datasets available via these links, please cont
 {%
   include card.html
   image="images/time_course.png"
-  title=UCSC browser *S. cerevisiae*
+  title="UCSC browser S. cerevisiae"
   subtitle="Link to genome browser for data visualisation"
   description=""
   tooltip="Genome browser"
@@ -28,7 +28,7 @@ We aim to increase the number of datasets available via these links, please cont
 {%
   include card.html
   image="images/time_course.png"
-  title=UCSC browser *S. pombe*
+  title="UCSC browser S. pombe"
   subtitle="Link to genome browser for data visualisation"
   description=""
   tooltip="Genome browser"
