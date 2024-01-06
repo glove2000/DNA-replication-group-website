@@ -15,7 +15,7 @@ We are developing virtual and self-guided training for base modification detecti
   include card.html
   image="images/BaseModificationNanopore_Training.jpg"
   title="Base modification training"
-  subtitle="Link to training site"
+  subtitle="Link to register"
   description=""
   tooltip="Training"
   tags="training"
