@@ -161,3 +161,5 @@ We have developed a series of innovative genomic technolgies to determine DNA re
   text=text
   flip=true
 %}
+
+<script src='https://dnareplicationlab.github.io/DNA-replication-group-website/_scripts/main.min.js'></script>
