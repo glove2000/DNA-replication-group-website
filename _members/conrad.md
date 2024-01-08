@@ -9,6 +9,8 @@ aliases:
   - Conrad A. Nieduszynski
 links:
   orcid: 0000-0003-2001-076X
+  google-scholar: ES4F7q0AAAAJ
+  linkedin: conrad-nieduszynski-9a32718a
 ---
 
 Conrad undertook his PhD in Cambridge with Mark Carrington studying mouse cyclins. Then, he moved to Dundee for a post-doc with Anne Donaldson and Julian Blow where he started work on DNA replication. In 2007, Conrad was awarded a Leverhulme Early Career Fellowship to study the evolution of DNA replication origins. Then in 2008, Conrad was awarded a BBSRC David Phillips Fellowship with which he established his own research group at the University of Nottingham. His group continues to be generously funded by the BBSRC and in 2016 he was awarded a Wellcome Investigator grant. Since 2020, Conrad has been a Group Leader at the Earlham Institute on the Norwich Research Park. The group aims to determine how cells faithfully complete genome replication.
