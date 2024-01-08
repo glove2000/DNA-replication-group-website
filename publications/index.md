@@ -26,3 +26,5 @@ Publications from our group.
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+<script src='_scripts/main.min.js'></script>
