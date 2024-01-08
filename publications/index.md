@@ -27,4 +27,4 @@ Publications from our group.
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
-<script src='_scripts/main.min.js'></script>
+<script src='https://dnareplicationlab.github.io/DNA-replication-group-website/_scripts/main.min.js'></script>
