@@ -28,5 +28,4 @@ If you use DNAscent, please cite our paper:
 {%
   include citation.html
   lookup="doi:10.1038/s41592-019-0394-y"
-  style="rich"
 %}
