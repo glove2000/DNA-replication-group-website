@@ -29,11 +29,9 @@ If you use OriDB, please cite our papers:
 {%
   include citation.html
   lookup="doi:10.1093/nar/gkr1091"
-  style="rich"
 %}
 
 {%
   include citation.html
   lookup="doi:10.1093/nar/gkl758"
-  style="rich"
 %}
