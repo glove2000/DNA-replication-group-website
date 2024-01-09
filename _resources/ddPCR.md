@@ -28,5 +28,4 @@ If you use these scripts, please cite our paper:
 {%
   include citation.html
   lookup="doi:10.1093/nar/gky590"
-  style="rich"
 %}
