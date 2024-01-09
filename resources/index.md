@@ -11,7 +11,7 @@ nav:
     - visualisation
 ---
 
-## Lab resources
+# {% include icon.html icon="fa-solid fa-database" %}Lab resources
 
 Various group resources (more coming).
 
