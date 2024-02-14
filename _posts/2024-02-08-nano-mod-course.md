@@ -17,3 +17,7 @@ We already have a lot of interest in running the course again - if you're intere
   caption="Group picture"
   width="600px"
 %}
+{%
+  include resource-excerpt.html
+  lookup="_resources/DNAscent.md"
+%}
