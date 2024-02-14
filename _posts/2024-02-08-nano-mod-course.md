@@ -19,5 +19,5 @@ We already have a lot of interest in running the course again - if you're intere
 %}
 {%
   include resource-excerpt.html
-  lookup="_resources/training.md"
+  lookup="training"
 %}
