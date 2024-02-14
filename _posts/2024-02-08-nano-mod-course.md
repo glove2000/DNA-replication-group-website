@@ -17,6 +17,7 @@ We already have a lot of interest in running the course again - if you're intere
   caption="Group picture"
   width="600px"
 %}
+For more information, please see follow the link below:
 {% 
   include list.html
   data="resources"
