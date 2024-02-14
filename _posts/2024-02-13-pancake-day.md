@@ -14,5 +14,5 @@ The pictures say it all!
   include figure.html
   image="images/pancake_day.gif"
   caption="Group picture"
-  width="400px"
+  width="600px"
 %}
