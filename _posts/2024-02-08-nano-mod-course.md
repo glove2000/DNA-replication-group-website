@@ -14,7 +14,7 @@ We already have a lot of interest in running the course again - if you're intere
 {%
   include figure.html
   image="images/gone_fishing.png"
-  caption="Group picture"
+  caption="Our holding slide"
   width="600px"
 %}
 For more information, please see follow the link below:
