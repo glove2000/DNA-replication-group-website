@@ -23,5 +23,17 @@ We are developing virtual and self-guided training for base modification detecti
   style="small"
 %}
 
-All places on our initial training course are now booked. From the link above you can register interest in a future 
-course. After the course, we will post links to the material to allow self-guided training.
+{%
+  include card.html
+  image="images/BaseModificationNanopore_Training.jpg"
+  title="Detection of DNA base modification using nanopore sequencing"
+  subtitle="Self-guided training material"
+  description=""
+  tooltip="Training"
+  tags="training"
+  link="https://sathish-t.github.io/nanopore-mod-course/"
+  style="small"
+%}
+
+All places on our initial training course are now booked. From the links above you can register interest in a future 
+course or explore the training material for self-guided training.
