@@ -20,6 +20,6 @@ We already have a lot of interest in running the course again - if you're intere
 {% 
   include list.html
   data="resources"
-  filters="title: Base modification training"
+  filters="title: Training in base modification detection"
   component="resource-excerpt" 
 %}
