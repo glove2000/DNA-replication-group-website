@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/yea.3912
+  title: "Telomere\u2010to\u2010telomere <i>Schizosaccharomyces japonicus</i> genome\
+    \ assembly reveals hitherto unknown genome features"
+  authors:
+  - Graham J. Etherington
+  - "Pei\u2010Shang Wu"
+  - Snezhana Oliferenko
+  - Frank Uhlmann
+  - Conrad A. Nieduszynski
+  publisher: bioRxiv
+  date: '2024-03-07'
+  link: https://doi.org/gtk6p3
+  orcid: 0000-0003-2001-076X
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: Schizosaccharomyces japonicus, 2024
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
+  tags:
+  - genome assembly
+  - fission yeast
+  - nanopore
 - id: doi:10.1002/yea.3919
   title: <i>Schizosaccharomyces versatilis</i> represents a distinct evolutionary
     lineage of fission yeast
@@ -1136,23 +1157,3 @@
   image: https://images.app.goo.gl/HGD4ktaRioNTGdDF7
   tags:
   - review
-- id: doi:10.1101/2023.09.04.556195
-  title: Telomere-to-telomere<i>Schizosaccharomyces japonicus</i>genome assembly reveals
-    hitherto unknown genome features
-  authors:
-  - Graham J Etherington
-  - Pei-Shang Wu
-  - Snezhana Oliferenko
-  - Frank Uhlmann
-  - Conrad A. Nieduszynski
-  publisher: bioRxiv
-  date: '2023-09-06'
-  link: https://doi.org/gs6tbj
-  my_comment: Schizosaccharomyces japonicus T2T preprint, 2023
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
-  tags:
-  - genome assembly
-  - fission yeast
-  - nanopore
-  plugin: sources.py
-  file: sources.yaml
