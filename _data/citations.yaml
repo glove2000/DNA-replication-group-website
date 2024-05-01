@@ -57,11 +57,11 @@
   plugin: sources.py
   file: sources.yaml
   my_comment: Schizosaccharomyces japonicus, 2024
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
   tags:
   - genome assembly
   - fission yeast
   - nanopore
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
 - id: doi:10.1016/j.cell.2023.10.015
   title: Design, construction, and functional characterization of a tRNA neochromosome
     in yeast
