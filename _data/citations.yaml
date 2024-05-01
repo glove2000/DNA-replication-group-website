@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.04.28.591325
+  title: Most human DNA replication initiation is dispersed throughout the genome
+    with only a minority within previously identified initiation zones
+  authors:
+  - Jamie T. Carrington
+  - Rosemary HC Wilson
+  - Sathish Thiyagarajan
+  - Tom Barker
+  - Leah Catchpole
+  - Alex Durrant
+  - Vanda Knitlhoffer
+  - Chris Watkins
+  - Karim Gharbi
+  - Conrad A. Nieduszynski
+  publisher: bioRxiv
+  date: '2024-05-01'
+  link: https://doi.org/gtsqkp
+  orcid: 0000-0003-2001-076X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/yea.3919
   title: <i>Schizosaccharomyces versatilis</i> represents a distinct evolutionary
     lineage of fission yeast
@@ -30,18 +50,18 @@
   - Snezhana Oliferenko
   - Frank Uhlmann
   - Conrad A. Nieduszynski
-  publisher: Yeast
+  publisher: bioRxiv
   date: '2024-03-01'
   link: https://doi.org/gtk6p3
   orcid: 0000-0003-2001-076X
   plugin: sources.py
   file: sources.yaml
   my_comment: Schizosaccharomyces japonicus, 2024
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
   tags:
   - genome assembly
   - fission yeast
   - nanopore
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
 - id: doi:10.1016/j.cell.2023.10.015
   title: Design, construction, and functional characterization of a tRNA neochromosome
     in yeast
