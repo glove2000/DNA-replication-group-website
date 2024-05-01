@@ -1,4 +1,12 @@
 - id: doi:10.1002/yea.3912
+  my_comment: Human DNAscent, 2024
+  publisher: bioRxiv
+  tags:
+   - cultured mammalian cells
+   - DNAscent
+   - nanopore
+
+- id: doi:10.1002/yea.3912
   my_comment: Schizosaccharomyces japonicus, 2024 
   image: https://www.biorxiv.org/content/biorxiv/early/2023/09/19/2023.09.04.556195/F1.large.jpg
   tags:
