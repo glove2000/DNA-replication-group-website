@@ -18,8 +18,14 @@
   date: '2024-05-01'
   link: https://doi.org/gtsqkp
   orcid: 0000-0003-2001-076X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  my_comment: Human DNAscent, 2024
+  image: images/IMG_1871.jpeg
+  tags:
+  - cultured mammalian cells
+  - DNAscent
+  - nanopore
 - id: doi:10.1002/yea.3919
   title: <i>Schizosaccharomyces versatilis</i> represents a distinct evolutionary
     lineage of fission yeast
@@ -50,7 +56,7 @@
   - Snezhana Oliferenko
   - Frank Uhlmann
   - Conrad A. Nieduszynski
-  publisher: bioRxiv
+  publisher: Yeast
   date: '2024-03-01'
   link: https://doi.org/gtk6p3
   orcid: 0000-0003-2001-076X
